@@ -316,12 +316,16 @@ f1-race-strategy-optimizer/
 
 ## Authors
 
-Yohan Vora
+**Yohan Vora**
+
 B.Tech Artificial Intelligence & Data Science
+
 SVKM's NMIMS Mukesh Patel School of Technology Management & Engineering
 
-Jugraj Singh
+**Jugraj Singh**
+
 B.Tech Artificial Intelligence & Data Science
+
 SVKM's NMIMS Mukesh Patel School of Technology Management & Engineering
 
 ---
