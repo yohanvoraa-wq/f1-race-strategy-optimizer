@@ -1,0 +1,10 @@
+# Trained Models
+
+The original trained model artifacts were generated during project development and are not included in this repository due to storage limitations.
+
+Models used:
+
+- XGBoost Regressor (Lap Time Prediction)
+- XGBoost Classifier (Pit Strategy Classification)
+
+Both models were trained using FastF1 telemetry and race datasets from five Formula 1 circuits.
