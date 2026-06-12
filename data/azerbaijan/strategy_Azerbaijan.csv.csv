@@ -1,0 +1,963 @@
+Race,Season,Driver,Team,LapNumber,LapTime_s,Compound,TyreLife,Stint,PitInTime_s,PitOutTime_s,Position,TrackStatus,FuelLoad_kg,FuelCorrection_s,IsAccurate,DegRate_s_lap,TotalLaps,LapsRemaining,SafetyCar,RedFlag,IsPitLap
+Azerbaijan,2023,VER,Red Bull Racing,1.0,110.456,MEDIUM,1.0,1.0,,,2.0,12,108.4,3.252,False,0.0936,51.0,50.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,2.0,107.707,MEDIUM,2.0,1.0,,,2.0,1,106.8,3.204,True,0.0936,51.0,49.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,3.0,107.677,MEDIUM,3.0,1.0,,,1.0,1,105.2,3.156,True,0.0936,51.0,48.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,4.0,107.108,MEDIUM,4.0,1.0,,,1.0,1,103.6,3.108,True,0.0936,51.0,47.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,5.0,107.476,MEDIUM,5.0,1.0,,,1.0,1,102.0,3.06,True,0.0936,51.0,46.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,6.0,107.202,MEDIUM,6.0,1.0,,,1.0,1,100.4,3.012,True,0.0936,51.0,45.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,7.0,106.995,MEDIUM,7.0,1.0,,,1.0,1,98.8,2.964,True,0.0936,51.0,44.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,8.0,106.801,MEDIUM,8.0,1.0,,,1.0,1,97.2,2.916,True,0.0936,51.0,43.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,9.0,106.944,MEDIUM,9.0,1.0,,,1.0,1,95.6,2.868,True,0.0936,51.0,42.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,10.0,110.778,MEDIUM,10.0,1.0,4859.833,,3.0,12,94.0,2.82,False,0.0936,51.0,41.0,0,0,1
+Azerbaijan,2023,VER,Red Bull Racing,11.0,,HARD,1.0,2.0,,4880.582,7.0,24,92.4,2.772,False,-0.1362,51.0,40.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,12.0,,HARD,2.0,2.0,,,3.0,4,90.8,2.724,False,-0.1362,51.0,39.0,1,0,0
+Azerbaijan,2023,VER,Red Bull Racing,13.0,,HARD,3.0,2.0,,,3.0,41,89.2,2.676,False,-0.1362,51.0,38.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,14.0,106.936,HARD,4.0,2.0,,,2.0,1,87.6,2.628,True,-0.1362,51.0,37.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,15.0,105.687,HARD,5.0,2.0,,,2.0,1,86.0,2.58,True,-0.1362,51.0,36.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,16.0,105.497,HARD,6.0,2.0,,,2.0,1,84.4,2.532,True,-0.1362,51.0,35.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,17.0,105.498,HARD,7.0,2.0,,,2.0,12,82.8,2.484,True,-0.1362,51.0,34.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,18.0,105.425,HARD,8.0,2.0,,,2.0,1,81.2,2.436,True,-0.1362,51.0,33.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,19.0,105.66,HARD,9.0,2.0,,,2.0,1,79.6,2.388,True,-0.1362,51.0,32.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,20.0,105.446,HARD,10.0,2.0,,,2.0,1,78.0,2.34,True,-0.1362,51.0,31.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,21.0,105.793,HARD,11.0,2.0,,,2.0,1,76.4,2.292,True,-0.1362,51.0,30.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,22.0,105.67,HARD,12.0,2.0,,,2.0,1,74.8,2.244,True,-0.1362,51.0,29.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,23.0,105.902,HARD,13.0,2.0,,,2.0,1,73.2,2.196,True,-0.1362,51.0,28.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,24.0,105.738,HARD,14.0,2.0,,,2.0,1,71.6,2.148,True,-0.1362,51.0,27.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,25.0,105.657,HARD,15.0,2.0,,,2.0,1,70.0,2.1,True,-0.1362,51.0,26.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,26.0,105.855,HARD,16.0,2.0,,,2.0,1,68.4,2.052,True,-0.1362,51.0,25.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,27.0,105.625,HARD,17.0,2.0,,,2.0,1,66.8,2.004,True,-0.1362,51.0,24.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,28.0,105.694,HARD,18.0,2.0,,,2.0,1,65.2,1.956,True,-0.1362,51.0,23.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,29.0,106.365,HARD,19.0,2.0,,,2.0,1,63.6,1.908,True,-0.1362,51.0,22.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,30.0,105.575,HARD,20.0,2.0,,,2.0,1,62.0,1.86,True,-0.1362,51.0,21.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,31.0,105.348,HARD,21.0,2.0,,,2.0,1,60.4,1.812,True,-0.1362,51.0,20.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,32.0,105.354,HARD,22.0,2.0,,,2.0,1,58.8,1.764,True,-0.1362,51.0,19.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,33.0,105.343,HARD,23.0,2.0,,,2.0,1,57.2,1.716,True,-0.1362,51.0,18.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,34.0,105.218,HARD,24.0,2.0,,,2.0,1,55.6,1.668,True,-0.1362,51.0,17.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,35.0,105.121,HARD,25.0,2.0,,,2.0,1,54.0,1.62,True,-0.1362,51.0,16.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,36.0,105.05,HARD,26.0,2.0,,,2.0,1,52.4,1.572,True,-0.1362,51.0,15.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,37.0,105.319,HARD,27.0,2.0,,,2.0,1,50.8,1.524,True,-0.1362,51.0,14.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,38.0,105.474,HARD,28.0,2.0,,,2.0,1,49.2,1.476,True,-0.1362,51.0,13.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,39.0,105.15,HARD,29.0,2.0,,,2.0,1,47.6,1.428,True,-0.1362,51.0,12.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,40.0,105.418,HARD,30.0,2.0,,,2.0,1,46.0,1.38,True,-0.1362,51.0,11.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,41.0,105.123,HARD,31.0,2.0,,,2.0,1,44.4,1.332,True,-0.1362,51.0,10.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,42.0,105.15,HARD,32.0,2.0,,,2.0,1,42.8,1.284,True,-0.1362,51.0,9.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,43.0,104.843,HARD,33.0,2.0,,,2.0,1,41.2,1.236,True,-0.1362,51.0,8.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,44.0,105.275,HARD,34.0,2.0,,,2.0,1,39.6,1.188,True,-0.1362,51.0,7.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,45.0,105.14,HARD,35.0,2.0,,,2.0,1,38.0,1.14,True,-0.1362,51.0,6.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,46.0,104.686,HARD,36.0,2.0,,,2.0,1,36.4,1.092,True,-0.1362,51.0,5.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,47.0,104.734,HARD,37.0,2.0,,,2.0,1,34.8,1.044,True,-0.1362,51.0,4.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,48.0,104.566,HARD,38.0,2.0,,,2.0,1,33.2,0.996,True,-0.1362,51.0,3.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,49.0,104.474,HARD,39.0,2.0,,,2.0,12,31.6,0.948,True,-0.1362,51.0,2.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,50.0,104.554,HARD,40.0,2.0,,,2.0,1,30.0,0.9,True,-0.1362,51.0,1.0,0,0,0
+Azerbaijan,2023,VER,Red Bull Racing,51.0,104.232,HARD,41.0,2.0,,,2.0,1,28.4,0.852,True,-0.1362,51.0,0.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,1.0,119.785,MEDIUM,1.0,1.0,,,15.0,12,108.4,3.252,False,-0.2201,51.0,50.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,2.0,109.99,MEDIUM,2.0,1.0,,,15.0,1,106.8,3.204,True,-0.2201,51.0,49.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,3.0,109.075,MEDIUM,3.0,1.0,,,15.0,1,105.2,3.156,True,-0.2201,51.0,48.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,4.0,108.873,MEDIUM,4.0,1.0,,,15.0,1,103.6,3.108,True,-0.2201,51.0,47.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,5.0,113.152,MEDIUM,5.0,1.0,4341.623,,19.0,1,102.0,3.06,False,-0.2201,51.0,46.0,0,0,1
+Azerbaijan,2023,GAS,Alpine,6.0,124.865,HARD,1.0,2.0,,4361.904,20.0,1,100.4,3.012,False,-0.384,51.0,45.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,7.0,107.722,HARD,2.0,2.0,,,19.0,1,98.8,2.964,True,-0.384,51.0,44.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,8.0,109.057,HARD,3.0,2.0,,,19.0,1,97.2,2.916,True,-0.384,51.0,43.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,9.0,107.851,HARD,4.0,2.0,,,18.0,1,95.6,2.868,True,-0.384,51.0,42.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,10.0,122.028,HARD,5.0,2.0,,,17.0,124,94.0,2.82,False,-0.384,51.0,41.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,11.0,148.597,HARD,6.0,2.0,,,16.0,4,92.4,2.772,False,-0.384,51.0,40.0,1,0,0
+Azerbaijan,2023,GAS,Alpine,12.0,136.496,HARD,7.0,2.0,,,16.0,4,90.8,2.724,False,-0.384,51.0,39.0,1,0,0
+Azerbaijan,2023,GAS,Alpine,13.0,146.528,HARD,8.0,2.0,,,16.0,41,89.2,2.676,False,-0.384,51.0,38.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,14.0,112.872,HARD,9.0,2.0,,,15.0,1,87.6,2.628,True,-0.384,51.0,37.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,15.0,108.951,HARD,10.0,2.0,,,15.0,1,86.0,2.58,True,-0.384,51.0,36.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,16.0,108.072,HARD,11.0,2.0,,,15.0,1,84.4,2.532,True,-0.384,51.0,35.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,17.0,107.915,HARD,12.0,2.0,,,15.0,12,82.8,2.484,True,-0.384,51.0,34.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,18.0,107.57,HARD,13.0,2.0,,,15.0,1,81.2,2.436,True,-0.384,51.0,33.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,19.0,108.031,HARD,14.0,2.0,,,15.0,1,79.6,2.388,True,-0.384,51.0,32.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,20.0,107.796,HARD,15.0,2.0,,,15.0,1,78.0,2.34,True,-0.384,51.0,31.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,21.0,107.873,HARD,16.0,2.0,,,15.0,1,76.4,2.292,True,-0.384,51.0,30.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,22.0,108.054,HARD,17.0,2.0,,,15.0,1,74.8,2.244,True,-0.384,51.0,29.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,23.0,112.208,HARD,18.0,2.0,6434.101,,16.0,1,73.2,2.196,False,-0.384,51.0,28.0,0,0,1
+Azerbaijan,2023,GAS,Alpine,24.0,124.713,HARD,1.0,3.0,,6455.257,19.0,1,71.6,2.148,False,0.1244,51.0,27.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,25.0,106.561,HARD,2.0,3.0,,,19.0,1,70.0,2.1,True,0.1244,51.0,26.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,26.0,106.173,HARD,3.0,3.0,,,19.0,1,68.4,2.052,True,0.1244,51.0,25.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,27.0,106.462,HARD,4.0,3.0,,,19.0,1,66.8,2.004,True,0.1244,51.0,24.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,28.0,106.43,HARD,5.0,3.0,,,19.0,1,65.2,1.956,True,0.1244,51.0,23.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,29.0,106.547,HARD,6.0,3.0,,,19.0,1,63.6,1.908,True,0.1244,51.0,22.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,30.0,106.601,HARD,7.0,3.0,,,19.0,1,62.0,1.86,True,0.1244,51.0,21.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,31.0,106.646,HARD,8.0,3.0,,,19.0,1,60.4,1.812,True,0.1244,51.0,20.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,32.0,107.951,HARD,9.0,3.0,,,19.0,1,58.8,1.764,True,0.1244,51.0,19.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,33.0,106.903,HARD,10.0,3.0,,,18.0,1,57.2,1.716,True,0.1244,51.0,18.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,34.0,106.481,HARD,11.0,3.0,,,18.0,1,55.6,1.668,True,0.1244,51.0,17.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,35.0,106.639,HARD,12.0,3.0,,,18.0,1,54.0,1.62,True,0.1244,51.0,16.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,36.0,106.54,HARD,13.0,3.0,,,17.0,1,52.4,1.572,True,0.1244,51.0,15.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,37.0,106.491,HARD,14.0,3.0,,,17.0,1,50.8,1.524,True,0.1244,51.0,14.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,38.0,107.075,HARD,15.0,3.0,,,17.0,1,49.2,1.476,True,0.1244,51.0,13.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,39.0,107.215,HARD,16.0,3.0,,,17.0,1,47.6,1.428,True,0.1244,51.0,12.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,40.0,107.919,HARD,17.0,3.0,,,17.0,1,46.0,1.38,True,0.1244,51.0,11.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,41.0,107.206,HARD,18.0,3.0,,,17.0,1,44.4,1.332,True,0.1244,51.0,10.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,42.0,107.076,HARD,19.0,3.0,,,17.0,1,42.8,1.284,True,0.1244,51.0,9.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,43.0,106.863,HARD,20.0,3.0,,,16.0,1,41.2,1.236,True,0.1244,51.0,8.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,44.0,106.048,HARD,21.0,3.0,,,16.0,1,39.6,1.188,True,0.1244,51.0,7.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,45.0,105.915,HARD,22.0,3.0,,,16.0,1,38.0,1.14,True,0.1244,51.0,6.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,46.0,105.776,HARD,23.0,3.0,,,16.0,1,36.4,1.092,True,0.1244,51.0,5.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,47.0,105.54,HARD,24.0,3.0,,,16.0,1,34.8,1.044,True,0.1244,51.0,4.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,48.0,105.556,HARD,25.0,3.0,,,16.0,12,33.2,0.996,True,0.1244,51.0,3.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,49.0,105.582,HARD,26.0,3.0,,,15.0,1,31.6,0.948,True,0.1244,51.0,2.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,50.0,105.599,HARD,27.0,3.0,,,15.0,1,30.0,0.9,True,0.1244,51.0,1.0,0,0,0
+Azerbaijan,2023,GAS,Alpine,51.0,105.899,HARD,28.0,3.0,,,14.0,1,28.4,0.852,True,0.1244,51.0,0.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,1.0,111.373,MEDIUM,1.0,1.0,,,3.0,12,108.4,3.252,False,0.071,51.0,50.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,2.0,107.717,MEDIUM,2.0,1.0,,,3.0,1,106.8,3.204,True,0.071,51.0,49.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,3.0,107.657,MEDIUM,3.0,1.0,,,3.0,1,105.2,3.156,True,0.071,51.0,48.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,4.0,107.404,MEDIUM,4.0,1.0,,,3.0,1,103.6,3.108,True,0.071,51.0,47.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,5.0,107.615,MEDIUM,5.0,1.0,,,3.0,1,102.0,3.06,True,0.071,51.0,46.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,6.0,107.073,MEDIUM,6.0,1.0,,,2.0,1,100.4,3.012,True,0.071,51.0,45.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,7.0,106.885,MEDIUM,7.0,1.0,,,2.0,1,98.8,2.964,True,0.071,51.0,44.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,8.0,106.807,MEDIUM,8.0,1.0,,,2.0,1,97.2,2.916,True,0.071,51.0,43.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,9.0,106.448,MEDIUM,9.0,1.0,,,2.0,1,95.6,2.868,True,0.071,51.0,42.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,10.0,106.905,MEDIUM,10.0,1.0,,,1.0,12,94.0,2.82,True,0.071,51.0,41.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,11.0,142.994,MEDIUM,11.0,1.0,4999.58,,1.0,24,92.4,2.772,False,0.071,51.0,40.0,0,0,1
+Azerbaijan,2023,PER,Red Bull Racing,12.0,,HARD,1.0,2.0,,5020.064,1.0,4,90.8,2.724,False,-0.1747,51.0,39.0,1,0,0
+Azerbaijan,2023,PER,Red Bull Racing,13.0,,HARD,2.0,2.0,,,1.0,41,89.2,2.676,False,-0.1747,51.0,38.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,14.0,105.798,HARD,3.0,2.0,,,1.0,1,87.6,2.628,True,-0.1747,51.0,37.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,15.0,105.803,HARD,4.0,2.0,,,1.0,1,86.0,2.58,True,-0.1747,51.0,36.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,16.0,105.518,HARD,5.0,2.0,,,1.0,1,84.4,2.532,True,-0.1747,51.0,35.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,17.0,105.523,HARD,6.0,2.0,,,1.0,12,82.8,2.484,True,-0.1747,51.0,34.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,18.0,105.504,HARD,7.0,2.0,,,1.0,1,81.2,2.436,True,-0.1747,51.0,33.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,19.0,105.471,HARD,8.0,2.0,,,1.0,1,79.6,2.388,True,-0.1747,51.0,32.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,20.0,105.677,HARD,9.0,2.0,,,1.0,1,78.0,2.34,True,-0.1747,51.0,31.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,21.0,105.838,HARD,10.0,2.0,,,1.0,1,76.4,2.292,True,-0.1747,51.0,30.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,22.0,105.695,HARD,11.0,2.0,,,1.0,1,74.8,2.244,True,-0.1747,51.0,29.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,23.0,105.779,HARD,12.0,2.0,,,1.0,1,73.2,2.196,True,-0.1747,51.0,28.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,24.0,105.734,HARD,13.0,2.0,,,1.0,1,71.6,2.148,True,-0.1747,51.0,27.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,25.0,105.666,HARD,14.0,2.0,,,1.0,1,70.0,2.1,True,-0.1747,51.0,26.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,26.0,105.732,HARD,15.0,2.0,,,1.0,1,68.4,2.052,True,-0.1747,51.0,25.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,27.0,105.521,HARD,16.0,2.0,,,1.0,1,66.8,2.004,True,-0.1747,51.0,24.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,28.0,105.538,HARD,17.0,2.0,,,1.0,1,65.2,1.956,True,-0.1747,51.0,23.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,29.0,105.745,HARD,18.0,2.0,,,1.0,1,63.6,1.908,True,-0.1747,51.0,22.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,30.0,105.394,HARD,19.0,2.0,,,1.0,1,62.0,1.86,True,-0.1747,51.0,21.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,31.0,105.485,HARD,20.0,2.0,,,1.0,1,60.4,1.812,True,-0.1747,51.0,20.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,32.0,105.311,HARD,21.0,2.0,,,1.0,1,58.8,1.764,True,-0.1747,51.0,19.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,33.0,105.395,HARD,22.0,2.0,,,1.0,1,57.2,1.716,True,-0.1747,51.0,18.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,34.0,105.262,HARD,23.0,2.0,,,1.0,1,55.6,1.668,True,-0.1747,51.0,17.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,35.0,104.869,HARD,24.0,2.0,,,1.0,1,54.0,1.62,True,-0.1747,51.0,16.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,36.0,104.898,HARD,25.0,2.0,,,1.0,1,52.4,1.572,True,-0.1747,51.0,15.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,37.0,104.97,HARD,26.0,2.0,,,1.0,1,50.8,1.524,True,-0.1747,51.0,14.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,38.0,105.017,HARD,27.0,2.0,,,1.0,1,49.2,1.476,True,-0.1747,51.0,13.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,39.0,105.092,HARD,28.0,2.0,,,1.0,1,47.6,1.428,True,-0.1747,51.0,12.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,40.0,105.342,HARD,29.0,2.0,,,1.0,1,46.0,1.38,True,-0.1747,51.0,11.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,41.0,105.676,HARD,30.0,2.0,,,1.0,1,44.4,1.332,True,-0.1747,51.0,10.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,42.0,105.096,HARD,31.0,2.0,,,1.0,1,42.8,1.284,True,-0.1747,51.0,9.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,43.0,104.875,HARD,32.0,2.0,,,1.0,1,41.2,1.236,True,-0.1747,51.0,8.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,44.0,104.75,HARD,33.0,2.0,,,1.0,1,39.6,1.188,True,-0.1747,51.0,7.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,45.0,104.96,HARD,34.0,2.0,,,1.0,1,38.0,1.14,True,-0.1747,51.0,6.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,46.0,104.731,HARD,35.0,2.0,,,1.0,1,36.4,1.092,True,-0.1747,51.0,5.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,47.0,105.139,HARD,36.0,2.0,,,1.0,1,34.8,1.044,True,-0.1747,51.0,4.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,48.0,104.892,HARD,37.0,2.0,,,1.0,1,33.2,0.996,True,-0.1747,51.0,3.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,49.0,104.611,HARD,38.0,2.0,,,1.0,12,31.6,0.948,True,-0.1747,51.0,2.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,50.0,104.589,HARD,39.0,2.0,,,1.0,1,30.0,0.9,True,-0.1747,51.0,1.0,0,0,0
+Azerbaijan,2023,PER,Red Bull Racing,51.0,104.926,HARD,40.0,2.0,,,1.0,1,28.4,0.852,True,-0.1747,51.0,0.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,1.0,114.002,MEDIUM,1.0,1.0,,,6.0,12,108.4,3.252,False,-0.1366,51.0,50.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,2.0,108.064,MEDIUM,2.0,1.0,,,6.0,1,106.8,3.204,True,-0.1366,51.0,49.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,3.0,107.782,MEDIUM,3.0,1.0,,,6.0,1,105.2,3.156,True,-0.1366,51.0,48.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,4.0,107.912,MEDIUM,4.0,1.0,,,6.0,1,103.6,3.108,True,-0.1366,51.0,47.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,5.0,107.899,MEDIUM,5.0,1.0,,,6.0,1,102.0,3.06,True,-0.1366,51.0,46.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,6.0,108.367,MEDIUM,6.0,1.0,,,6.0,1,100.4,3.012,True,-0.1366,51.0,45.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,7.0,107.955,MEDIUM,7.0,1.0,,,6.0,1,98.8,2.964,True,-0.1366,51.0,44.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,8.0,107.062,MEDIUM,8.0,1.0,,,6.0,1,97.2,2.916,True,-0.1366,51.0,43.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,9.0,108.83,MEDIUM,9.0,1.0,,,5.0,1,95.6,2.868,True,-0.1366,51.0,42.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,10.0,107.416,MEDIUM,10.0,1.0,,,5.0,12,94.0,2.82,True,-0.1366,51.0,41.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,11.0,148.557,MEDIUM,11.0,1.0,5014.533,,4.0,24,92.4,2.772,False,-0.1366,51.0,40.0,0,0,1
+Azerbaijan,2023,ALO,Aston Martin,12.0,,HARD,1.0,2.0,,5037.689,5.0,4,90.8,2.724,False,-0.264,51.0,39.0,1,0,0
+Azerbaijan,2023,ALO,Aston Martin,13.0,,HARD,2.0,2.0,,,5.0,41,89.2,2.676,False,-0.264,51.0,38.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,14.0,108.907,HARD,3.0,2.0,,,4.0,1,87.6,2.628,True,-0.264,51.0,37.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,15.0,106.929,HARD,4.0,2.0,,,4.0,1,86.0,2.58,True,-0.264,51.0,36.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,16.0,106.404,HARD,5.0,2.0,,,4.0,1,84.4,2.532,True,-0.264,51.0,35.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,17.0,106.869,HARD,6.0,2.0,,,4.0,12,82.8,2.484,True,-0.264,51.0,34.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,18.0,107.199,HARD,7.0,2.0,,,4.0,1,81.2,2.436,True,-0.264,51.0,33.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,19.0,106.856,HARD,8.0,2.0,,,4.0,1,79.6,2.388,True,-0.264,51.0,32.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,20.0,107.025,HARD,9.0,2.0,,,4.0,1,78.0,2.34,True,-0.264,51.0,31.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,21.0,106.86,HARD,10.0,2.0,,,4.0,1,76.4,2.292,True,-0.264,51.0,30.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,22.0,106.229,HARD,11.0,2.0,,,4.0,1,74.8,2.244,True,-0.264,51.0,29.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,23.0,106.646,HARD,12.0,2.0,,,4.0,1,73.2,2.196,True,-0.264,51.0,28.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,24.0,106.162,HARD,13.0,2.0,,,4.0,1,71.6,2.148,True,-0.264,51.0,27.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,25.0,106.62,HARD,14.0,2.0,,,4.0,1,70.0,2.1,True,-0.264,51.0,26.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,26.0,106.381,HARD,15.0,2.0,,,4.0,1,68.4,2.052,True,-0.264,51.0,25.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,27.0,106.064,HARD,16.0,2.0,,,4.0,1,66.8,2.004,True,-0.264,51.0,24.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,28.0,106.091,HARD,17.0,2.0,,,4.0,1,65.2,1.956,True,-0.264,51.0,23.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,29.0,105.847,HARD,18.0,2.0,,,4.0,1,63.6,1.908,True,-0.264,51.0,22.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,30.0,105.691,HARD,19.0,2.0,,,4.0,1,62.0,1.86,True,-0.264,51.0,21.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,31.0,105.781,HARD,20.0,2.0,,,4.0,1,60.4,1.812,True,-0.264,51.0,20.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,32.0,106.194,HARD,21.0,2.0,,,4.0,1,58.8,1.764,True,-0.264,51.0,19.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,33.0,106.35,HARD,22.0,2.0,,,4.0,1,57.2,1.716,True,-0.264,51.0,18.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,34.0,106.152,HARD,23.0,2.0,,,4.0,1,55.6,1.668,True,-0.264,51.0,17.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,35.0,105.816,HARD,24.0,2.0,,,4.0,1,54.0,1.62,True,-0.264,51.0,16.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,36.0,106.079,HARD,25.0,2.0,,,4.0,1,52.4,1.572,True,-0.264,51.0,15.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,37.0,105.344,HARD,26.0,2.0,,,4.0,1,50.8,1.524,True,-0.264,51.0,14.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,38.0,105.955,HARD,27.0,2.0,,,4.0,1,49.2,1.476,True,-0.264,51.0,13.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,39.0,105.642,HARD,28.0,2.0,,,4.0,1,47.6,1.428,True,-0.264,51.0,12.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,40.0,105.372,HARD,29.0,2.0,,,4.0,1,46.0,1.38,True,-0.264,51.0,11.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,41.0,104.998,HARD,30.0,2.0,,,4.0,1,44.4,1.332,True,-0.264,51.0,10.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,42.0,104.933,HARD,31.0,2.0,,,4.0,1,42.8,1.284,True,-0.264,51.0,9.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,43.0,104.673,HARD,32.0,2.0,,,4.0,1,41.2,1.236,True,-0.264,51.0,8.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,44.0,104.782,HARD,33.0,2.0,,,4.0,1,39.6,1.188,True,-0.264,51.0,7.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,45.0,104.967,HARD,34.0,2.0,,,4.0,1,38.0,1.14,True,-0.264,51.0,6.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,46.0,104.803,HARD,35.0,2.0,,,4.0,1,36.4,1.092,True,-0.264,51.0,5.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,47.0,104.879,HARD,36.0,2.0,,,4.0,1,34.8,1.044,True,-0.264,51.0,4.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,48.0,104.541,HARD,37.0,2.0,,,4.0,1,33.2,0.996,True,-0.264,51.0,3.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,49.0,104.241,HARD,38.0,2.0,,,4.0,12,31.6,0.948,True,-0.264,51.0,2.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,50.0,104.439,HARD,39.0,2.0,,,4.0,1,30.0,0.9,True,-0.264,51.0,1.0,0,0,0
+Azerbaijan,2023,ALO,Aston Martin,51.0,104.273,HARD,40.0,2.0,,,4.0,1,28.4,0.852,True,-0.264,51.0,0.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,1.0,110.109,MEDIUM,1.0,1.0,,,1.0,12,108.4,3.252,False,-0.0454,51.0,50.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,2.0,107.656,MEDIUM,2.0,1.0,,,1.0,1,106.8,3.204,True,-0.0454,51.0,49.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,3.0,108.151,MEDIUM,3.0,1.0,,,2.0,1,105.2,3.156,True,-0.0454,51.0,48.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,4.0,107.966,MEDIUM,4.0,1.0,,,2.0,1,103.6,3.108,True,-0.0454,51.0,47.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,5.0,107.757,MEDIUM,5.0,1.0,,,2.0,1,102.0,3.06,True,-0.0454,51.0,46.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,6.0,108.067,MEDIUM,6.0,1.0,,,3.0,1,100.4,3.012,True,-0.0454,51.0,45.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,7.0,107.157,MEDIUM,7.0,1.0,,,3.0,1,98.8,2.964,True,-0.0454,51.0,44.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,8.0,107.707,MEDIUM,8.0,1.0,,,3.0,1,97.2,2.916,True,-0.0454,51.0,43.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,9.0,107.421,MEDIUM,9.0,1.0,,,3.0,1,95.6,2.868,True,-0.0454,51.0,42.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,10.0,107.034,MEDIUM,10.0,1.0,,,2.0,12,94.0,2.82,True,-0.0454,51.0,41.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,11.0,144.96,MEDIUM,11.0,1.0,5004.83,,2.0,24,92.4,2.772,False,-0.0454,51.0,40.0,0,0,1
+Azerbaijan,2023,LEC,Ferrari,12.0,,HARD,1.0,2.0,,5025.798,2.0,4,90.8,2.724,False,0.0676,51.0,39.0,1,0,0
+Azerbaijan,2023,LEC,Ferrari,13.0,,HARD,2.0,2.0,,,2.0,41,89.2,2.676,False,0.0676,51.0,38.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,14.0,108.511,HARD,3.0,2.0,,,3.0,1,87.6,2.628,True,0.0676,51.0,37.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,15.0,106.741,HARD,4.0,2.0,,,3.0,1,86.0,2.58,True,0.0676,51.0,36.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,16.0,106.345,HARD,5.0,2.0,,,3.0,1,84.4,2.532,True,0.0676,51.0,35.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,17.0,106.392,HARD,6.0,2.0,,,3.0,12,82.8,2.484,True,0.0676,51.0,34.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,18.0,106.727,HARD,7.0,2.0,,,3.0,1,81.2,2.436,True,0.0676,51.0,33.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,19.0,106.688,HARD,8.0,2.0,,,3.0,1,79.6,2.388,True,0.0676,51.0,32.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,20.0,106.752,HARD,9.0,2.0,,,3.0,1,78.0,2.34,True,0.0676,51.0,31.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,21.0,106.697,HARD,10.0,2.0,,,3.0,1,76.4,2.292,True,0.0676,51.0,30.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,22.0,106.481,HARD,11.0,2.0,,,3.0,1,74.8,2.244,True,0.0676,51.0,29.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,23.0,106.554,HARD,12.0,2.0,,,3.0,1,73.2,2.196,True,0.0676,51.0,28.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,24.0,106.51,HARD,13.0,2.0,,,3.0,1,71.6,2.148,True,0.0676,51.0,27.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,25.0,106.43,HARD,14.0,2.0,,,3.0,1,70.0,2.1,True,0.0676,51.0,26.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,26.0,106.711,HARD,15.0,2.0,,,3.0,1,68.4,2.052,True,0.0676,51.0,25.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,27.0,106.399,HARD,16.0,2.0,,,3.0,1,66.8,2.004,True,0.0676,51.0,24.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,28.0,105.874,HARD,17.0,2.0,,,3.0,1,65.2,1.956,True,0.0676,51.0,23.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,29.0,105.938,HARD,18.0,2.0,,,3.0,1,63.6,1.908,True,0.0676,51.0,22.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,30.0,106.375,HARD,19.0,2.0,,,3.0,1,62.0,1.86,True,0.0676,51.0,21.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,31.0,106.018,HARD,20.0,2.0,,,3.0,1,60.4,1.812,True,0.0676,51.0,20.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,32.0,105.627,HARD,21.0,2.0,,,3.0,1,58.8,1.764,True,0.0676,51.0,19.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,33.0,105.726,HARD,22.0,2.0,,,3.0,1,57.2,1.716,True,0.0676,51.0,18.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,34.0,105.873,HARD,23.0,2.0,,,3.0,1,55.6,1.668,True,0.0676,51.0,17.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,35.0,105.589,HARD,24.0,2.0,,,3.0,1,54.0,1.62,True,0.0676,51.0,16.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,36.0,105.446,HARD,25.0,2.0,,,3.0,1,52.4,1.572,True,0.0676,51.0,15.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,37.0,105.332,HARD,26.0,2.0,,,3.0,1,50.8,1.524,True,0.0676,51.0,14.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,38.0,105.266,HARD,27.0,2.0,,,3.0,1,49.2,1.476,True,0.0676,51.0,13.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,39.0,105.265,HARD,28.0,2.0,,,3.0,1,47.6,1.428,True,0.0676,51.0,12.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,40.0,105.363,HARD,29.0,2.0,,,3.0,1,46.0,1.38,True,0.0676,51.0,11.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,41.0,105.383,HARD,30.0,2.0,,,3.0,1,44.4,1.332,True,0.0676,51.0,10.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,42.0,105.006,HARD,31.0,2.0,,,3.0,1,42.8,1.284,True,0.0676,51.0,9.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,43.0,104.67,HARD,32.0,2.0,,,3.0,1,41.2,1.236,True,0.0676,51.0,8.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,44.0,105.323,HARD,33.0,2.0,,,3.0,1,39.6,1.188,True,0.0676,51.0,7.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,45.0,104.886,HARD,34.0,2.0,,,3.0,1,38.0,1.14,True,0.0676,51.0,6.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,46.0,104.927,HARD,35.0,2.0,,,3.0,1,36.4,1.092,True,0.0676,51.0,5.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,47.0,105.048,HARD,36.0,2.0,,,3.0,1,34.8,1.044,True,0.0676,51.0,4.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,48.0,105.045,HARD,37.0,2.0,,,3.0,1,33.2,0.996,True,0.0676,51.0,3.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,49.0,104.561,HARD,38.0,2.0,,,3.0,12,31.6,0.948,True,0.0676,51.0,2.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,50.0,104.977,HARD,39.0,2.0,,,3.0,1,30.0,0.9,True,0.0676,51.0,1.0,0,0,0
+Azerbaijan,2023,LEC,Ferrari,51.0,105.409,HARD,40.0,2.0,,,3.0,1,28.4,0.852,True,0.0676,51.0,0.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,1.0,114.568,MEDIUM,1.0,1.0,,,7.0,12,108.4,3.252,False,-0.2568,51.0,50.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,2.0,108.409,MEDIUM,2.0,1.0,,,7.0,1,106.8,3.204,True,-0.2568,51.0,49.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,3.0,107.753,MEDIUM,3.0,1.0,,,7.0,1,105.2,3.156,True,-0.2568,51.0,48.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,4.0,107.914,MEDIUM,4.0,1.0,,,7.0,1,103.6,3.108,True,-0.2568,51.0,47.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,5.0,107.689,MEDIUM,5.0,1.0,,,7.0,1,102.0,3.06,True,-0.2568,51.0,46.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,6.0,108.268,MEDIUM,6.0,1.0,,,7.0,1,100.4,3.012,True,-0.2568,51.0,45.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,7.0,108.173,MEDIUM,7.0,1.0,,,7.0,1,98.8,2.964,True,-0.2568,51.0,44.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,8.0,107.944,MEDIUM,8.0,1.0,,,7.0,1,97.2,2.916,True,-0.2568,51.0,43.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,9.0,108.023,MEDIUM,9.0,1.0,,,6.0,1,95.6,2.868,True,-0.2568,51.0,42.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,10.0,107.893,MEDIUM,10.0,1.0,,,6.0,12,94.0,2.82,True,-0.2568,51.0,41.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,11.0,,MEDIUM,11.0,1.0,5021.205,,6.0,24,92.4,2.772,False,-0.2568,51.0,40.0,0,0,1
+Azerbaijan,2023,STR,Aston Martin,12.0,,HARD,4.0,2.0,,5044.345,7.0,4,90.8,2.724,False,-0.1674,51.0,39.0,1,0,0
+Azerbaijan,2023,STR,Aston Martin,13.0,,HARD,5.0,2.0,,,7.0,41,89.2,2.676,False,-0.1674,51.0,38.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,14.0,109.323,HARD,6.0,2.0,,,6.0,1,87.6,2.628,True,-0.1674,51.0,37.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,15.0,107.521,HARD,7.0,2.0,,,6.0,1,86.0,2.58,True,-0.1674,51.0,36.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,16.0,107.078,HARD,8.0,2.0,,,6.0,1,84.4,2.532,True,-0.1674,51.0,35.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,17.0,107.051,HARD,9.0,2.0,,,6.0,12,82.8,2.484,True,-0.1674,51.0,34.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,18.0,106.835,HARD,10.0,2.0,,,6.0,1,81.2,2.436,True,-0.1674,51.0,33.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,19.0,108.008,HARD,11.0,2.0,,,7.0,1,79.6,2.388,True,-0.1674,51.0,32.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,20.0,107.875,HARD,12.0,2.0,,,7.0,1,78.0,2.34,True,-0.1674,51.0,31.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,21.0,107.164,HARD,13.0,2.0,,,7.0,1,76.4,2.292,True,-0.1674,51.0,30.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,22.0,106.998,HARD,14.0,2.0,,,7.0,1,74.8,2.244,True,-0.1674,51.0,29.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,23.0,107.104,HARD,15.0,2.0,,,7.0,1,73.2,2.196,True,-0.1674,51.0,28.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,24.0,106.763,HARD,16.0,2.0,,,7.0,1,71.6,2.148,True,-0.1674,51.0,27.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,25.0,106.722,HARD,17.0,2.0,,,7.0,1,70.0,2.1,True,-0.1674,51.0,26.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,26.0,107.103,HARD,18.0,2.0,,,7.0,1,68.4,2.052,True,-0.1674,51.0,25.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,27.0,106.941,HARD,19.0,2.0,,,7.0,1,66.8,2.004,True,-0.1674,51.0,24.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,28.0,107.139,HARD,20.0,2.0,,,7.0,1,65.2,1.956,True,-0.1674,51.0,23.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,29.0,106.819,HARD,21.0,2.0,,,7.0,1,63.6,1.908,True,-0.1674,51.0,22.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,30.0,106.576,HARD,22.0,2.0,,,7.0,1,62.0,1.86,True,-0.1674,51.0,21.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,31.0,106.395,HARD,23.0,2.0,,,7.0,1,60.4,1.812,True,-0.1674,51.0,20.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,32.0,106.447,HARD,24.0,2.0,,,7.0,1,58.8,1.764,True,-0.1674,51.0,19.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,33.0,106.536,HARD,25.0,2.0,,,7.0,1,57.2,1.716,True,-0.1674,51.0,18.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,34.0,106.528,HARD,26.0,2.0,,,7.0,1,55.6,1.668,True,-0.1674,51.0,17.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,35.0,106.577,HARD,27.0,2.0,,,7.0,1,54.0,1.62,True,-0.1674,51.0,16.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,36.0,106.356,HARD,28.0,2.0,,,7.0,1,52.4,1.572,True,-0.1674,51.0,15.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,37.0,106.295,HARD,29.0,2.0,,,7.0,1,50.8,1.524,True,-0.1674,51.0,14.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,38.0,106.212,HARD,30.0,2.0,,,7.0,1,49.2,1.476,True,-0.1674,51.0,13.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,39.0,105.972,HARD,31.0,2.0,,,7.0,1,47.6,1.428,True,-0.1674,51.0,12.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,40.0,106.203,HARD,32.0,2.0,,,7.0,1,46.0,1.38,True,-0.1674,51.0,11.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,41.0,106.097,HARD,33.0,2.0,,,7.0,1,44.4,1.332,True,-0.1674,51.0,10.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,42.0,105.885,HARD,34.0,2.0,,,7.0,1,42.8,1.284,True,-0.1674,51.0,9.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,43.0,105.957,HARD,35.0,2.0,,,7.0,1,41.2,1.236,True,-0.1674,51.0,8.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,44.0,105.856,HARD,36.0,2.0,,,7.0,1,39.6,1.188,True,-0.1674,51.0,7.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,45.0,105.627,HARD,37.0,2.0,,,7.0,1,38.0,1.14,True,-0.1674,51.0,6.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,46.0,105.715,HARD,38.0,2.0,,,7.0,1,36.4,1.092,True,-0.1674,51.0,5.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,47.0,105.814,HARD,39.0,2.0,,,7.0,1,34.8,1.044,True,-0.1674,51.0,4.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,48.0,105.779,HARD,40.0,2.0,,,7.0,1,33.2,0.996,True,-0.1674,51.0,3.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,49.0,105.886,HARD,41.0,2.0,,,7.0,12,31.6,0.948,True,-0.1674,51.0,2.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,50.0,106.278,HARD,42.0,2.0,,,7.0,1,30.0,0.9,True,-0.1674,51.0,1.0,0,0,0
+Azerbaijan,2023,STR,Aston Martin,51.0,106.58,HARD,43.0,2.0,,,7.0,1,28.4,0.852,True,-0.1674,51.0,0.0,0,0,0
+Azerbaijan,2023,SAR,Williams,1.0,118.98,MEDIUM,1.0,1.0,,,14.0,12,108.4,3.252,False,-0.3322,51.0,50.0,0,0,0
+Azerbaijan,2023,SAR,Williams,2.0,110.147,MEDIUM,2.0,1.0,,,14.0,1,106.8,3.204,True,-0.3322,51.0,49.0,0,0,0
+Azerbaijan,2023,SAR,Williams,3.0,109.098,MEDIUM,3.0,1.0,,,14.0,1,105.2,3.156,True,-0.3322,51.0,48.0,0,0,0
+Azerbaijan,2023,SAR,Williams,4.0,108.85,MEDIUM,4.0,1.0,,,14.0,1,103.6,3.108,True,-0.3322,51.0,47.0,0,0,0
+Azerbaijan,2023,SAR,Williams,5.0,108.875,MEDIUM,5.0,1.0,,,14.0,1,102.0,3.06,True,-0.3322,51.0,46.0,0,0,0
+Azerbaijan,2023,SAR,Williams,6.0,109.285,MEDIUM,6.0,1.0,,,14.0,1,100.4,3.012,True,-0.3322,51.0,45.0,0,0,0
+Azerbaijan,2023,SAR,Williams,7.0,109.731,MEDIUM,7.0,1.0,,,13.0,1,98.8,2.964,True,-0.3322,51.0,44.0,0,0,0
+Azerbaijan,2023,SAR,Williams,8.0,114.13,MEDIUM,8.0,1.0,4669.852,,17.0,1,97.2,2.916,False,-0.3322,51.0,43.0,0,0,1
+Azerbaijan,2023,SAR,Williams,9.0,125.742,HARD,1.0,2.0,,4690.914,19.0,1,95.6,2.868,False,-0.2918,51.0,42.0,0,0,0
+Azerbaijan,2023,SAR,Williams,10.0,121.898,HARD,2.0,2.0,,,18.0,124,94.0,2.82,False,-0.2918,51.0,41.0,0,0,0
+Azerbaijan,2023,SAR,Williams,11.0,,HARD,3.0,2.0,,,18.0,4,92.4,2.772,False,-0.2918,51.0,40.0,1,0,0
+Azerbaijan,2023,SAR,Williams,12.0,129.271,HARD,4.0,2.0,,,18.0,4,90.8,2.724,False,-0.2918,51.0,39.0,1,0,0
+Azerbaijan,2023,SAR,Williams,13.0,144.974,HARD,5.0,2.0,,,18.0,41,89.2,2.676,False,-0.2918,51.0,38.0,0,0,0
+Azerbaijan,2023,SAR,Williams,14.0,113.102,HARD,6.0,2.0,,,18.0,1,87.6,2.628,True,-0.2918,51.0,37.0,0,0,0
+Azerbaijan,2023,SAR,Williams,15.0,109.448,HARD,7.0,2.0,,,18.0,1,86.0,2.58,True,-0.2918,51.0,36.0,0,0,0
+Azerbaijan,2023,SAR,Williams,16.0,108.461,HARD,8.0,2.0,,,18.0,1,84.4,2.532,True,-0.2918,51.0,35.0,0,0,0
+Azerbaijan,2023,SAR,Williams,17.0,108.711,HARD,9.0,2.0,,,18.0,12,82.8,2.484,True,-0.2918,51.0,34.0,0,0,0
+Azerbaijan,2023,SAR,Williams,18.0,107.892,HARD,10.0,2.0,,,18.0,1,81.2,2.436,True,-0.2918,51.0,33.0,0,0,0
+Azerbaijan,2023,SAR,Williams,19.0,108.088,HARD,11.0,2.0,,,18.0,1,79.6,2.388,True,-0.2918,51.0,32.0,0,0,0
+Azerbaijan,2023,SAR,Williams,20.0,108.722,HARD,12.0,2.0,,,18.0,1,78.0,2.34,True,-0.2918,51.0,31.0,0,0,0
+Azerbaijan,2023,SAR,Williams,21.0,108.568,HARD,13.0,2.0,,,18.0,1,76.4,2.292,True,-0.2918,51.0,30.0,0,0,0
+Azerbaijan,2023,SAR,Williams,22.0,108.293,HARD,14.0,2.0,,,18.0,1,74.8,2.244,True,-0.2918,51.0,29.0,0,0,0
+Azerbaijan,2023,SAR,Williams,23.0,108.378,HARD,15.0,2.0,,,18.0,1,73.2,2.196,True,-0.2918,51.0,28.0,0,0,0
+Azerbaijan,2023,SAR,Williams,24.0,108.514,HARD,16.0,2.0,,,17.0,1,71.6,2.148,True,-0.2918,51.0,27.0,0,0,0
+Azerbaijan,2023,SAR,Williams,25.0,108.089,HARD,17.0,2.0,,,17.0,1,70.0,2.1,True,-0.2918,51.0,26.0,0,0,0
+Azerbaijan,2023,SAR,Williams,26.0,107.802,HARD,18.0,2.0,,,17.0,1,68.4,2.052,True,-0.2918,51.0,25.0,0,0,0
+Azerbaijan,2023,SAR,Williams,27.0,108.044,HARD,19.0,2.0,,,17.0,1,66.8,2.004,True,-0.2918,51.0,24.0,0,0,0
+Azerbaijan,2023,SAR,Williams,28.0,108.355,HARD,20.0,2.0,,,17.0,1,65.2,1.956,True,-0.2918,51.0,23.0,0,0,0
+Azerbaijan,2023,SAR,Williams,29.0,108.197,HARD,21.0,2.0,,,17.0,1,63.6,1.908,True,-0.2918,51.0,22.0,0,0,0
+Azerbaijan,2023,SAR,Williams,30.0,107.975,HARD,22.0,2.0,,,17.0,1,62.0,1.86,True,-0.2918,51.0,21.0,0,0,0
+Azerbaijan,2023,SAR,Williams,31.0,107.663,HARD,23.0,2.0,,,17.0,1,60.4,1.812,True,-0.2918,51.0,20.0,0,0,0
+Azerbaijan,2023,SAR,Williams,32.0,107.521,HARD,24.0,2.0,,,17.0,1,58.8,1.764,True,-0.2918,51.0,19.0,0,0,0
+Azerbaijan,2023,SAR,Williams,33.0,107.364,HARD,25.0,2.0,,,17.0,1,57.2,1.716,True,-0.2918,51.0,18.0,0,0,0
+Azerbaijan,2023,SAR,Williams,34.0,107.539,HARD,26.0,2.0,,,17.0,1,55.6,1.668,True,-0.2918,51.0,17.0,0,0,0
+Azerbaijan,2023,SAR,Williams,35.0,107.456,HARD,27.0,2.0,,,17.0,1,54.0,1.62,True,-0.2918,51.0,16.0,0,0,0
+Azerbaijan,2023,SAR,Williams,36.0,107.614,HARD,28.0,2.0,,,16.0,1,52.4,1.572,True,-0.2918,51.0,15.0,0,0,0
+Azerbaijan,2023,SAR,Williams,37.0,106.844,HARD,29.0,2.0,,,16.0,1,50.8,1.524,True,-0.2918,51.0,14.0,0,0,0
+Azerbaijan,2023,SAR,Williams,38.0,107.161,HARD,30.0,2.0,,,16.0,1,49.2,1.476,True,-0.2918,51.0,13.0,0,0,0
+Azerbaijan,2023,SAR,Williams,39.0,107.323,HARD,31.0,2.0,,,16.0,1,47.6,1.428,True,-0.2918,51.0,12.0,0,0,0
+Azerbaijan,2023,SAR,Williams,40.0,107.725,HARD,32.0,2.0,,,16.0,1,46.0,1.38,True,-0.2918,51.0,11.0,0,0,0
+Azerbaijan,2023,SAR,Williams,41.0,107.2,HARD,33.0,2.0,,,16.0,1,44.4,1.332,True,-0.2918,51.0,10.0,0,0,0
+Azerbaijan,2023,SAR,Williams,42.0,107.378,HARD,34.0,2.0,,,16.0,1,42.8,1.284,True,-0.2918,51.0,9.0,0,0,0
+Azerbaijan,2023,SAR,Williams,43.0,108.649,HARD,35.0,2.0,,,17.0,1,41.2,1.236,True,-0.2918,51.0,8.0,0,0,0
+Azerbaijan,2023,SAR,Williams,44.0,107.047,HARD,36.0,2.0,,,17.0,1,39.6,1.188,True,-0.2918,51.0,7.0,0,0,0
+Azerbaijan,2023,SAR,Williams,45.0,106.97,HARD,37.0,2.0,,,17.0,1,38.0,1.14,True,-0.2918,51.0,6.0,0,0,0
+Azerbaijan,2023,SAR,Williams,46.0,106.819,HARD,38.0,2.0,,,17.0,1,36.4,1.092,True,-0.2918,51.0,5.0,0,0,0
+Azerbaijan,2023,SAR,Williams,47.0,106.641,HARD,39.0,2.0,,,17.0,1,34.8,1.044,True,-0.2918,51.0,4.0,0,0,0
+Azerbaijan,2023,SAR,Williams,48.0,106.754,HARD,40.0,2.0,,,17.0,12,33.2,0.996,True,-0.2918,51.0,3.0,0,0,0
+Azerbaijan,2023,SAR,Williams,49.0,106.501,HARD,41.0,2.0,,,17.0,1,31.6,0.948,True,-0.2918,51.0,2.0,0,0,0
+Azerbaijan,2023,SAR,Williams,50.0,106.507,HARD,42.0,2.0,,,16.0,1,30.0,0.9,True,-0.2918,51.0,1.0,0,0,0
+Azerbaijan,2023,SAR,Williams,51.0,106.638,HARD,43.0,2.0,,,16.0,1,28.4,0.852,True,-0.2918,51.0,0.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,1.0,118.715,MEDIUM,1.0,1.0,,,13.0,12,108.4,3.252,False,-0.3437,51.0,50.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,2.0,110.168,MEDIUM,2.0,1.0,,,13.0,1,106.8,3.204,True,-0.3437,51.0,49.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,3.0,108.629,MEDIUM,3.0,1.0,,,13.0,1,105.2,3.156,True,-0.3437,51.0,48.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,4.0,108.915,MEDIUM,4.0,1.0,,,13.0,1,103.6,3.108,True,-0.3437,51.0,47.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,5.0,109.028,MEDIUM,5.0,1.0,,,13.0,1,102.0,3.06,True,-0.3437,51.0,46.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,6.0,108.951,MEDIUM,6.0,1.0,,,13.0,1,100.4,3.012,True,-0.3437,51.0,45.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,7.0,108.645,MEDIUM,7.0,1.0,,,12.0,1,98.8,2.964,True,-0.3437,51.0,44.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,8.0,108.972,MEDIUM,8.0,1.0,,,11.0,1,97.2,2.916,True,-0.3437,51.0,43.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,9.0,109.051,MEDIUM,9.0,1.0,,,10.0,1,95.6,2.868,True,-0.3437,51.0,42.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,10.0,122.819,MEDIUM,10.0,1.0,4894.597,,12.0,124,94.0,2.82,False,-0.3437,51.0,41.0,0,0,1
+Azerbaijan,2023,MAG,Haas F1 Team,11.0,,HARD,1.0,2.0,,4925.534,17.0,4,92.4,2.772,False,0.1054,51.0,40.0,1,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,12.0,129.751,HARD,2.0,2.0,,,17.0,4,90.8,2.724,False,0.1054,51.0,39.0,1,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,13.0,145.627,HARD,3.0,2.0,,,17.0,41,89.2,2.676,False,0.1054,51.0,38.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,14.0,112.642,HARD,4.0,2.0,,,17.0,1,87.6,2.628,True,0.1054,51.0,37.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,15.0,109.108,HARD,5.0,2.0,,,17.0,1,86.0,2.58,True,0.1054,51.0,36.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,16.0,107.952,HARD,6.0,2.0,,,17.0,1,84.4,2.532,True,0.1054,51.0,35.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,17.0,108.871,HARD,7.0,2.0,,,17.0,12,82.8,2.484,True,0.1054,51.0,34.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,18.0,107.484,HARD,8.0,2.0,,,17.0,1,81.2,2.436,True,0.1054,51.0,33.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,19.0,107.752,HARD,9.0,2.0,,,16.0,1,79.6,2.388,True,0.1054,51.0,32.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,20.0,107.765,HARD,10.0,2.0,,,16.0,1,78.0,2.34,True,0.1054,51.0,31.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,21.0,107.567,HARD,11.0,2.0,,,16.0,1,76.4,2.292,True,0.1054,51.0,30.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,22.0,107.675,HARD,12.0,2.0,,,16.0,1,74.8,2.244,True,0.1054,51.0,29.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,23.0,107.906,HARD,13.0,2.0,,,15.0,1,73.2,2.196,True,0.1054,51.0,28.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,24.0,107.722,HARD,14.0,2.0,,,15.0,1,71.6,2.148,True,0.1054,51.0,27.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,25.0,107.862,HARD,15.0,2.0,,,15.0,1,70.0,2.1,True,0.1054,51.0,26.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,26.0,107.861,HARD,16.0,2.0,,,15.0,1,68.4,2.052,True,0.1054,51.0,25.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,27.0,108.357,HARD,17.0,2.0,,,15.0,1,66.8,2.004,True,0.1054,51.0,24.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,28.0,108.029,HARD,18.0,2.0,,,15.0,1,65.2,1.956,True,0.1054,51.0,23.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,29.0,107.988,HARD,19.0,2.0,,,15.0,1,63.6,1.908,True,0.1054,51.0,22.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,30.0,106.99,HARD,20.0,2.0,,,15.0,1,62.0,1.86,True,0.1054,51.0,21.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,31.0,107.313,HARD,21.0,2.0,,,15.0,1,60.4,1.812,True,0.1054,51.0,20.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,32.0,107.141,HARD,22.0,2.0,,,15.0,1,58.8,1.764,True,0.1054,51.0,19.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,33.0,107.382,HARD,23.0,2.0,,,15.0,1,57.2,1.716,True,0.1054,51.0,18.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,34.0,107.42,HARD,24.0,2.0,,,15.0,1,55.6,1.668,True,0.1054,51.0,17.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,35.0,107.487,HARD,25.0,2.0,,,15.0,1,54.0,1.62,True,0.1054,51.0,16.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,36.0,107.348,HARD,26.0,2.0,,,15.0,1,52.4,1.572,True,0.1054,51.0,15.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,37.0,107.589,HARD,27.0,2.0,,,15.0,1,50.8,1.524,True,0.1054,51.0,14.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,38.0,107.261,HARD,28.0,2.0,,,15.0,1,49.2,1.476,True,0.1054,51.0,13.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,39.0,107.021,HARD,29.0,2.0,,,15.0,1,47.6,1.428,True,0.1054,51.0,12.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,40.0,106.653,HARD,30.0,2.0,,,15.0,1,46.0,1.38,True,0.1054,51.0,11.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,41.0,107.351,HARD,31.0,2.0,,,15.0,1,44.4,1.332,True,0.1054,51.0,10.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,42.0,106.585,HARD,32.0,2.0,,,15.0,1,42.8,1.284,True,0.1054,51.0,9.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,43.0,106.563,HARD,33.0,2.0,,,15.0,1,41.2,1.236,True,0.1054,51.0,8.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,44.0,106.775,HARD,34.0,2.0,,,15.0,1,39.6,1.188,True,0.1054,51.0,7.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,45.0,106.802,HARD,35.0,2.0,,,15.0,1,38.0,1.14,True,0.1054,51.0,6.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,46.0,106.677,HARD,36.0,2.0,,,15.0,1,36.4,1.092,True,0.1054,51.0,5.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,47.0,106.946,HARD,37.0,2.0,,,15.0,1,34.8,1.044,True,0.1054,51.0,4.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,48.0,107.926,HARD,38.0,2.0,,,15.0,12,33.2,0.996,True,0.1054,51.0,3.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,49.0,107.217,HARD,39.0,2.0,,,14.0,1,31.6,0.948,True,0.1054,51.0,2.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,50.0,106.102,HARD,40.0,2.0,,,14.0,1,30.0,0.9,True,0.1054,51.0,1.0,0,0,0
+Azerbaijan,2023,MAG,Haas F1 Team,51.0,105.85,HARD,41.0,2.0,,,13.0,1,28.4,0.852,True,0.1054,51.0,0.0,0,0,0
+Azerbaijan,2023,DEV,AlphaTauri,1.0,121.057,HARD,1.0,1.0,,,17.0,12,108.4,3.252,False,-0.5543,10.0,9.0,0,0,0
+Azerbaijan,2023,DEV,AlphaTauri,2.0,110.431,HARD,2.0,1.0,,,17.0,1,106.8,3.204,True,-0.5543,10.0,8.0,0,0,0
+Azerbaijan,2023,DEV,AlphaTauri,3.0,109.365,HARD,3.0,1.0,,,17.0,1,105.2,3.156,True,-0.5543,10.0,7.0,0,0,0
+Azerbaijan,2023,DEV,AlphaTauri,4.0,108.781,HARD,4.0,1.0,,,17.0,1,103.6,3.108,True,-0.5543,10.0,6.0,0,0,0
+Azerbaijan,2023,DEV,AlphaTauri,5.0,108.948,HARD,5.0,1.0,,,16.0,1,102.0,3.06,True,-0.5543,10.0,5.0,0,0,0
+Azerbaijan,2023,DEV,AlphaTauri,6.0,109.337,HARD,6.0,1.0,,,16.0,1,100.4,3.012,True,-0.5543,10.0,4.0,0,0,0
+Azerbaijan,2023,DEV,AlphaTauri,7.0,109.118,HARD,7.0,1.0,,,16.0,1,98.8,2.964,True,-0.5543,10.0,3.0,0,0,0
+Azerbaijan,2023,DEV,AlphaTauri,8.0,109.353,HARD,8.0,1.0,,,14.0,1,97.2,2.916,True,-0.5543,10.0,2.0,0,0,0
+Azerbaijan,2023,DEV,AlphaTauri,9.0,109.253,HARD,9.0,1.0,,,12.0,1,95.6,2.868,True,-0.5543,10.0,1.0,0,0,0
+Azerbaijan,2023,DEV,AlphaTauri,10.0,,HARD,10.0,1.0,,,,124,94.0,2.82,False,-0.5543,10.0,0.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,1.0,117.17,MEDIUM,1.0,1.0,,,10.0,12,108.4,3.252,False,-0.822,51.0,50.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,2.0,109.181,MEDIUM,2.0,1.0,,,10.0,1,106.8,3.204,True,-0.822,51.0,49.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,3.0,108.529,MEDIUM,3.0,1.0,,,10.0,1,105.2,3.156,True,-0.822,51.0,48.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,4.0,108.477,MEDIUM,4.0,1.0,,,10.0,1,103.6,3.108,True,-0.822,51.0,47.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,5.0,108.599,MEDIUM,5.0,1.0,,,10.0,1,102.0,3.06,True,-0.822,51.0,46.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,6.0,108.228,MEDIUM,6.0,1.0,,,10.0,1,100.4,3.012,True,-0.822,51.0,45.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,7.0,108.26,MEDIUM,7.0,1.0,,,10.0,1,98.8,2.964,True,-0.822,51.0,44.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,8.0,112.849,MEDIUM,8.0,1.0,4661.992,,10.0,1,97.2,2.916,False,-0.822,51.0,43.0,0,0,1
+Azerbaijan,2023,TSU,AlphaTauri,9.0,125.578,HARD,1.0,2.0,,4682.476,15.0,1,95.6,2.868,False,0.0526,51.0,42.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,10.0,118.85,HARD,2.0,2.0,,,14.0,124,94.0,2.82,False,0.0526,51.0,41.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,11.0,149.329,HARD,3.0,2.0,,,13.0,4,92.4,2.772,False,0.0526,51.0,40.0,1,0,0
+Azerbaijan,2023,TSU,AlphaTauri,12.0,136.115,HARD,4.0,2.0,,,12.0,4,90.8,2.724,False,0.0526,51.0,39.0,1,0,0
+Azerbaijan,2023,TSU,AlphaTauri,13.0,,HARD,5.0,2.0,,,12.0,41,89.2,2.676,False,0.0526,51.0,38.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,14.0,112.225,HARD,6.0,2.0,,,12.0,1,87.6,2.628,True,0.0526,51.0,37.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,15.0,108.521,HARD,7.0,2.0,,,12.0,1,86.0,2.58,True,0.0526,51.0,36.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,16.0,107.868,HARD,8.0,2.0,,,12.0,1,84.4,2.532,True,0.0526,51.0,35.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,17.0,107.609,HARD,9.0,2.0,,,12.0,12,82.8,2.484,True,0.0526,51.0,34.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,18.0,107.69,HARD,10.0,2.0,,,12.0,1,81.2,2.436,True,0.0526,51.0,33.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,19.0,107.556,HARD,11.0,2.0,,,12.0,1,79.6,2.388,True,0.0526,51.0,32.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,20.0,108.021,HARD,12.0,2.0,,,12.0,1,78.0,2.34,True,0.0526,51.0,31.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,21.0,107.818,HARD,13.0,2.0,,,12.0,1,76.4,2.292,True,0.0526,51.0,30.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,22.0,107.642,HARD,14.0,2.0,,,12.0,1,74.8,2.244,True,0.0526,51.0,29.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,23.0,108.041,HARD,15.0,2.0,,,12.0,1,73.2,2.196,True,0.0526,51.0,28.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,24.0,108.199,HARD,16.0,2.0,,,12.0,1,71.6,2.148,True,0.0526,51.0,27.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,25.0,107.9,HARD,17.0,2.0,,,12.0,1,70.0,2.1,True,0.0526,51.0,26.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,26.0,107.696,HARD,18.0,2.0,,,12.0,1,68.4,2.052,True,0.0526,51.0,25.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,27.0,108.205,HARD,19.0,2.0,,,12.0,1,66.8,2.004,True,0.0526,51.0,24.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,28.0,107.902,HARD,20.0,2.0,,,12.0,1,65.2,1.956,True,0.0526,51.0,23.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,29.0,107.667,HARD,21.0,2.0,,,12.0,1,63.6,1.908,True,0.0526,51.0,22.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,30.0,107.334,HARD,22.0,2.0,,,12.0,1,62.0,1.86,True,0.0526,51.0,21.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,31.0,107.308,HARD,23.0,2.0,,,12.0,1,60.4,1.812,True,0.0526,51.0,20.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,32.0,107.355,HARD,24.0,2.0,,,12.0,1,58.8,1.764,True,0.0526,51.0,19.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,33.0,107.219,HARD,25.0,2.0,,,12.0,1,57.2,1.716,True,0.0526,51.0,18.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,34.0,106.922,HARD,26.0,2.0,,,12.0,1,55.6,1.668,True,0.0526,51.0,17.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,35.0,106.861,HARD,27.0,2.0,,,12.0,1,54.0,1.62,True,0.0526,51.0,16.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,36.0,107.261,HARD,28.0,2.0,,,12.0,1,52.4,1.572,True,0.0526,51.0,15.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,37.0,107.14,HARD,29.0,2.0,,,12.0,1,50.8,1.524,True,0.0526,51.0,14.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,38.0,106.692,HARD,30.0,2.0,,,12.0,1,49.2,1.476,True,0.0526,51.0,13.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,39.0,106.854,HARD,31.0,2.0,,,12.0,1,47.6,1.428,True,0.0526,51.0,12.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,40.0,106.877,HARD,32.0,2.0,,,12.0,1,46.0,1.38,True,0.0526,51.0,11.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,41.0,106.741,HARD,33.0,2.0,,,12.0,1,44.4,1.332,True,0.0526,51.0,10.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,42.0,106.765,HARD,34.0,2.0,,,12.0,1,42.8,1.284,True,0.0526,51.0,9.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,43.0,107.011,HARD,35.0,2.0,,,12.0,1,41.2,1.236,True,0.0526,51.0,8.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,44.0,107.237,HARD,36.0,2.0,,,12.0,1,39.6,1.188,True,0.0526,51.0,7.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,45.0,108.611,HARD,37.0,2.0,,,12.0,1,38.0,1.14,True,0.0526,51.0,6.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,46.0,107.293,HARD,38.0,2.0,,,11.0,1,36.4,1.092,True,0.0526,51.0,5.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,47.0,106.643,HARD,39.0,2.0,,,11.0,1,34.8,1.044,True,0.0526,51.0,4.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,48.0,106.479,HARD,40.0,2.0,,,11.0,12,33.2,0.996,True,0.0526,51.0,3.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,49.0,106.205,HARD,41.0,2.0,,,11.0,1,31.6,0.948,True,0.0526,51.0,2.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,50.0,106.141,HARD,42.0,2.0,,,11.0,1,30.0,0.9,True,0.0526,51.0,1.0,0,0,0
+Azerbaijan,2023,TSU,AlphaTauri,51.0,105.727,HARD,43.0,2.0,,,10.0,1,28.4,0.852,True,0.0526,51.0,0.0,0,0,0
+Azerbaijan,2023,ALB,Williams,1.0,118.185,MEDIUM,1.0,1.0,,,12.0,12,108.4,3.252,False,-0.3007,51.0,50.0,0,0,0
+Azerbaijan,2023,ALB,Williams,2.0,109.728,MEDIUM,2.0,1.0,,,12.0,1,106.8,3.204,True,-0.3007,51.0,49.0,0,0,0
+Azerbaijan,2023,ALB,Williams,3.0,108.815,MEDIUM,3.0,1.0,,,12.0,1,105.2,3.156,True,-0.3007,51.0,48.0,0,0,0
+Azerbaijan,2023,ALB,Williams,4.0,109.004,MEDIUM,4.0,1.0,,,12.0,1,103.6,3.108,True,-0.3007,51.0,47.0,0,0,0
+Azerbaijan,2023,ALB,Williams,5.0,108.689,MEDIUM,5.0,1.0,,,12.0,1,102.0,3.06,True,-0.3007,51.0,46.0,0,0,0
+Azerbaijan,2023,ALB,Williams,6.0,108.53,MEDIUM,6.0,1.0,,,12.0,1,100.4,3.012,True,-0.3007,51.0,45.0,0,0,0
+Azerbaijan,2023,ALB,Williams,7.0,112.993,MEDIUM,7.0,1.0,4556.666,,14.0,1,98.8,2.964,False,-0.3007,51.0,44.0,0,0,1
+Azerbaijan,2023,ALB,Williams,8.0,126.167,HARD,1.0,2.0,,4577.744,18.0,1,97.2,2.916,False,-0.3603,51.0,43.0,0,0,0
+Azerbaijan,2023,ALB,Williams,9.0,107.968,HARD,2.0,2.0,,,17.0,1,95.6,2.868,True,-0.3603,51.0,42.0,0,0,0
+Azerbaijan,2023,ALB,Williams,10.0,120.959,HARD,3.0,2.0,,,16.0,124,94.0,2.82,False,-0.3603,51.0,41.0,0,0,0
+Azerbaijan,2023,ALB,Williams,11.0,149.002,HARD,4.0,2.0,,,15.0,4,92.4,2.772,False,-0.3603,51.0,40.0,1,0,0
+Azerbaijan,2023,ALB,Williams,12.0,135.098,HARD,5.0,2.0,,,15.0,4,90.8,2.724,False,-0.3603,51.0,39.0,1,0,0
+Azerbaijan,2023,ALB,Williams,13.0,148.547,HARD,6.0,2.0,,,15.0,41,89.2,2.676,False,-0.3603,51.0,38.0,0,0,0
+Azerbaijan,2023,ALB,Williams,14.0,112.578,HARD,7.0,2.0,,,14.0,1,87.6,2.628,True,-0.3603,51.0,37.0,0,0,0
+Azerbaijan,2023,ALB,Williams,15.0,108.928,HARD,8.0,2.0,,,14.0,1,86.0,2.58,True,-0.3603,51.0,36.0,0,0,0
+Azerbaijan,2023,ALB,Williams,16.0,108.111,HARD,9.0,2.0,,,14.0,1,84.4,2.532,True,-0.3603,51.0,35.0,0,0,0
+Azerbaijan,2023,ALB,Williams,17.0,107.727,HARD,10.0,2.0,,,14.0,12,82.8,2.484,True,-0.3603,51.0,34.0,0,0,0
+Azerbaijan,2023,ALB,Williams,18.0,107.982,HARD,11.0,2.0,,,14.0,1,81.2,2.436,True,-0.3603,51.0,33.0,0,0,0
+Azerbaijan,2023,ALB,Williams,19.0,107.776,HARD,12.0,2.0,,,14.0,1,79.6,2.388,True,-0.3603,51.0,32.0,0,0,0
+Azerbaijan,2023,ALB,Williams,20.0,107.693,HARD,13.0,2.0,,,14.0,1,78.0,2.34,True,-0.3603,51.0,31.0,0,0,0
+Azerbaijan,2023,ALB,Williams,21.0,108.151,HARD,14.0,2.0,,,14.0,1,76.4,2.292,True,-0.3603,51.0,30.0,0,0,0
+Azerbaijan,2023,ALB,Williams,22.0,107.986,HARD,15.0,2.0,,,14.0,1,74.8,2.244,True,-0.3603,51.0,29.0,0,0,0
+Azerbaijan,2023,ALB,Williams,23.0,107.949,HARD,16.0,2.0,,,14.0,1,73.2,2.196,True,-0.3603,51.0,28.0,0,0,0
+Azerbaijan,2023,ALB,Williams,24.0,108.076,HARD,17.0,2.0,,,14.0,1,71.6,2.148,True,-0.3603,51.0,27.0,0,0,0
+Azerbaijan,2023,ALB,Williams,25.0,108.114,HARD,18.0,2.0,,,14.0,1,70.0,2.1,True,-0.3603,51.0,26.0,0,0,0
+Azerbaijan,2023,ALB,Williams,26.0,107.911,HARD,19.0,2.0,,,14.0,1,68.4,2.052,True,-0.3603,51.0,25.0,0,0,0
+Azerbaijan,2023,ALB,Williams,27.0,107.77,HARD,20.0,2.0,,,14.0,1,66.8,2.004,True,-0.3603,51.0,24.0,0,0,0
+Azerbaijan,2023,ALB,Williams,28.0,108.057,HARD,21.0,2.0,,,14.0,1,65.2,1.956,True,-0.3603,51.0,23.0,0,0,0
+Azerbaijan,2023,ALB,Williams,29.0,107.858,HARD,22.0,2.0,,,14.0,1,63.6,1.908,True,-0.3603,51.0,22.0,0,0,0
+Azerbaijan,2023,ALB,Williams,30.0,107.38,HARD,23.0,2.0,,,14.0,1,62.0,1.86,True,-0.3603,51.0,21.0,0,0,0
+Azerbaijan,2023,ALB,Williams,31.0,107.37,HARD,24.0,2.0,,,14.0,1,60.4,1.812,True,-0.3603,51.0,20.0,0,0,0
+Azerbaijan,2023,ALB,Williams,32.0,107.64,HARD,25.0,2.0,,,14.0,1,58.8,1.764,True,-0.3603,51.0,19.0,0,0,0
+Azerbaijan,2023,ALB,Williams,33.0,107.284,HARD,26.0,2.0,,,14.0,1,57.2,1.716,True,-0.3603,51.0,18.0,0,0,0
+Azerbaijan,2023,ALB,Williams,34.0,107.486,HARD,27.0,2.0,,,14.0,1,55.6,1.668,True,-0.3603,51.0,17.0,0,0,0
+Azerbaijan,2023,ALB,Williams,35.0,107.277,HARD,28.0,2.0,,,14.0,1,54.0,1.62,True,-0.3603,51.0,16.0,0,0,0
+Azerbaijan,2023,ALB,Williams,36.0,107.763,HARD,29.0,2.0,,,14.0,1,52.4,1.572,True,-0.3603,51.0,15.0,0,0,0
+Azerbaijan,2023,ALB,Williams,37.0,107.27,HARD,30.0,2.0,,,14.0,1,50.8,1.524,True,-0.3603,51.0,14.0,0,0,0
+Azerbaijan,2023,ALB,Williams,38.0,107.155,HARD,31.0,2.0,,,14.0,1,49.2,1.476,True,-0.3603,51.0,13.0,0,0,0
+Azerbaijan,2023,ALB,Williams,39.0,106.972,HARD,32.0,2.0,,,14.0,1,47.6,1.428,True,-0.3603,51.0,12.0,0,0,0
+Azerbaijan,2023,ALB,Williams,40.0,107.049,HARD,33.0,2.0,,,14.0,1,46.0,1.38,True,-0.3603,51.0,11.0,0,0,0
+Azerbaijan,2023,ALB,Williams,41.0,106.853,HARD,34.0,2.0,,,14.0,1,44.4,1.332,True,-0.3603,51.0,10.0,0,0,0
+Azerbaijan,2023,ALB,Williams,42.0,106.845,HARD,35.0,2.0,,,14.0,1,42.8,1.284,True,-0.3603,51.0,9.0,0,0,0
+Azerbaijan,2023,ALB,Williams,43.0,106.607,HARD,36.0,2.0,,,14.0,1,41.2,1.236,True,-0.3603,51.0,8.0,0,0,0
+Azerbaijan,2023,ALB,Williams,44.0,106.833,HARD,37.0,2.0,,,14.0,1,39.6,1.188,True,-0.3603,51.0,7.0,0,0,0
+Azerbaijan,2023,ALB,Williams,45.0,106.859,HARD,38.0,2.0,,,14.0,1,38.0,1.14,True,-0.3603,51.0,6.0,0,0,0
+Azerbaijan,2023,ALB,Williams,46.0,106.614,HARD,39.0,2.0,,,14.0,1,36.4,1.092,True,-0.3603,51.0,5.0,0,0,0
+Azerbaijan,2023,ALB,Williams,47.0,106.621,HARD,40.0,2.0,,,14.0,1,34.8,1.044,True,-0.3603,51.0,4.0,0,0,0
+Azerbaijan,2023,ALB,Williams,48.0,108.271,HARD,41.0,2.0,,,13.0,12,33.2,0.996,True,-0.3603,51.0,3.0,0,0,0
+Azerbaijan,2023,ALB,Williams,49.0,106.343,HARD,42.0,2.0,,,13.0,1,31.6,0.948,True,-0.3603,51.0,2.0,0,0,0
+Azerbaijan,2023,ALB,Williams,50.0,106.29,HARD,43.0,2.0,,,13.0,1,30.0,0.9,True,-0.3603,51.0,1.0,0,0,0
+Azerbaijan,2023,ALB,Williams,51.0,105.925,HARD,44.0,2.0,,,12.0,1,28.4,0.852,True,-0.3603,51.0,0.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,1.0,120.491,MEDIUM,1.0,1.0,,,16.0,12,108.4,3.252,False,-0.4694,36.0,35.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,2.0,110.144,MEDIUM,2.0,1.0,,,16.0,1,106.8,3.204,True,-0.4694,36.0,34.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,3.0,109.313,MEDIUM,3.0,1.0,,,16.0,1,105.2,3.156,True,-0.4694,36.0,33.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,4.0,109.096,MEDIUM,4.0,1.0,,,16.0,1,103.6,3.108,True,-0.4694,36.0,32.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,5.0,109.152,MEDIUM,5.0,1.0,,,15.0,1,102.0,3.06,True,-0.4694,36.0,31.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,6.0,109.307,MEDIUM,6.0,1.0,,,15.0,1,100.4,3.012,True,-0.4694,36.0,30.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,7.0,109.112,MEDIUM,7.0,1.0,,,15.0,1,98.8,2.964,True,-0.4694,36.0,29.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,8.0,109.251,MEDIUM,8.0,1.0,,,13.0,1,97.2,2.916,True,-0.4694,36.0,28.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,9.0,109.363,MEDIUM,9.0,1.0,,,11.0,1,95.6,2.868,True,-0.4694,36.0,27.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,10.0,109.532,MEDIUM,10.0,1.0,,,8.0,124,94.0,2.82,False,-0.4694,36.0,26.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,11.0,,MEDIUM,11.0,1.0,5040.845,,8.0,4,92.4,2.772,False,-0.4694,36.0,25.0,1,0,1
+Azerbaijan,2023,ZHO,Alfa Romeo,12.0,,HARD,1.0,2.0,,5063.063,14.0,4,90.8,2.724,False,-0.2713,36.0,24.0,1,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,13.0,149.111,HARD,2.0,2.0,,,14.0,41,89.2,2.676,False,-0.2713,36.0,23.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,14.0,114.037,HARD,3.0,2.0,,,16.0,1,87.6,2.628,True,-0.2713,36.0,22.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,15.0,109.022,HARD,4.0,2.0,,,16.0,1,86.0,2.58,True,-0.2713,36.0,21.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,16.0,108.274,HARD,5.0,2.0,,,16.0,1,84.4,2.532,True,-0.2713,36.0,20.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,17.0,108.444,HARD,6.0,2.0,,,16.0,12,82.8,2.484,True,-0.2713,36.0,19.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,18.0,107.83,HARD,7.0,2.0,,,16.0,1,81.2,2.436,True,-0.2713,36.0,18.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,19.0,109.47,HARD,8.0,2.0,,,17.0,1,79.6,2.388,True,-0.2713,36.0,17.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,20.0,108.394,HARD,9.0,2.0,,,17.0,1,78.0,2.34,True,-0.2713,36.0,16.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,21.0,108.28,HARD,10.0,2.0,,,17.0,1,76.4,2.292,True,-0.2713,36.0,15.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,22.0,108.371,HARD,11.0,2.0,,,17.0,1,74.8,2.244,True,-0.2713,36.0,14.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,23.0,108.602,HARD,12.0,2.0,,,17.0,1,73.2,2.196,True,-0.2713,36.0,13.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,24.0,108.374,HARD,13.0,2.0,,,16.0,1,71.6,2.148,True,-0.2713,36.0,12.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,25.0,108.105,HARD,14.0,2.0,,,16.0,1,70.0,2.1,True,-0.2713,36.0,11.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,26.0,107.952,HARD,15.0,2.0,,,16.0,1,68.4,2.052,True,-0.2713,36.0,10.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,27.0,108.066,HARD,16.0,2.0,,,16.0,1,66.8,2.004,True,-0.2713,36.0,9.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,28.0,108.055,HARD,17.0,2.0,,,16.0,1,65.2,1.956,True,-0.2713,36.0,8.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,29.0,107.934,HARD,18.0,2.0,,,16.0,1,63.6,1.908,True,-0.2713,36.0,7.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,30.0,108.071,HARD,19.0,2.0,,,16.0,1,62.0,1.86,True,-0.2713,36.0,6.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,31.0,107.553,HARD,20.0,2.0,,,16.0,1,60.4,1.812,True,-0.2713,36.0,5.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,32.0,107.617,HARD,21.0,2.0,,,16.0,1,58.8,1.764,True,-0.2713,36.0,4.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,33.0,107.662,HARD,22.0,2.0,,,16.0,1,57.2,1.716,True,-0.2713,36.0,3.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,34.0,107.627,HARD,23.0,2.0,,,16.0,1,55.6,1.668,True,-0.2713,36.0,2.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,35.0,107.587,HARD,24.0,2.0,,,16.0,1,54.0,1.62,True,-0.2713,36.0,1.0,0,0,0
+Azerbaijan,2023,ZHO,Alfa Romeo,36.0,113.661,HARD,25.0,2.0,7843.091,,18.0,1,52.4,1.572,False,-0.2713,36.0,0.0,0,0,1
+Azerbaijan,2023,HUL,Haas F1 Team,1.0,122.623,HARD,1.0,1.0,,3795.883,20.0,12,108.4,3.252,False,0.2054,50.0,49.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,2.0,110.227,HARD,2.0,1.0,,,20.0,1,106.8,3.204,True,0.2054,50.0,48.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,3.0,110.097,HARD,3.0,1.0,,,20.0,1,105.2,3.156,True,0.2054,50.0,47.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,4.0,108.731,HARD,4.0,1.0,,,20.0,1,103.6,3.108,True,0.2054,50.0,46.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,5.0,109.331,HARD,5.0,1.0,,,20.0,1,102.0,3.06,True,0.2054,50.0,45.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,6.0,109.033,HARD,6.0,1.0,,,18.0,1,100.4,3.012,True,0.2054,50.0,44.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,7.0,108.557,HARD,7.0,1.0,,,18.0,1,98.8,2.964,True,0.2054,50.0,43.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,8.0,108.667,HARD,8.0,1.0,,,16.0,1,97.2,2.916,True,0.2054,50.0,42.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,9.0,109.303,HARD,9.0,1.0,,,14.0,1,95.6,2.868,True,0.2054,50.0,41.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,10.0,115.368,HARD,10.0,1.0,,,10.0,124,94.0,2.82,False,0.2054,50.0,40.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,11.0,,HARD,11.0,1.0,,,10.0,4,92.4,2.772,False,0.2054,50.0,39.0,1,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,12.0,144.365,HARD,12.0,1.0,,,9.0,4,90.8,2.724,False,0.2054,50.0,38.0,1,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,13.0,,HARD,13.0,1.0,,,9.0,41,89.2,2.676,False,0.2054,50.0,37.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,14.0,111.284,HARD,14.0,1.0,,,10.0,1,87.6,2.628,True,0.2054,50.0,36.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,15.0,108.266,HARD,15.0,1.0,,,10.0,1,86.0,2.58,True,0.2054,50.0,35.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,16.0,107.824,HARD,16.0,1.0,,,10.0,1,84.4,2.532,True,0.2054,50.0,34.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,17.0,107.529,HARD,17.0,1.0,,,10.0,12,82.8,2.484,True,0.2054,50.0,33.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,18.0,107.528,HARD,18.0,1.0,,,10.0,1,81.2,2.436,True,0.2054,50.0,32.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,19.0,107.721,HARD,19.0,1.0,,,10.0,1,79.6,2.388,True,0.2054,50.0,31.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,20.0,107.967,HARD,20.0,1.0,,,10.0,1,78.0,2.34,True,0.2054,50.0,30.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,21.0,107.639,HARD,21.0,1.0,,,10.0,1,76.4,2.292,True,0.2054,50.0,29.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,22.0,107.61,HARD,22.0,1.0,,,10.0,1,74.8,2.244,True,0.2054,50.0,28.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,23.0,108.825,HARD,23.0,1.0,,,10.0,1,73.2,2.196,True,0.2054,50.0,27.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,24.0,108.101,HARD,24.0,1.0,,,10.0,1,71.6,2.148,True,0.2054,50.0,26.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,25.0,107.97,HARD,25.0,1.0,,,10.0,1,70.0,2.1,True,0.2054,50.0,25.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,26.0,107.677,HARD,26.0,1.0,,,10.0,1,68.4,2.052,True,0.2054,50.0,24.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,27.0,108.497,HARD,27.0,1.0,,,10.0,1,66.8,2.004,True,0.2054,50.0,23.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,28.0,107.706,HARD,28.0,1.0,,,10.0,1,65.2,1.956,True,0.2054,50.0,22.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,29.0,107.147,HARD,29.0,1.0,,,10.0,1,63.6,1.908,True,0.2054,50.0,21.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,30.0,107.678,HARD,30.0,1.0,,,10.0,1,62.0,1.86,True,0.2054,50.0,20.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,31.0,107.428,HARD,31.0,1.0,,,10.0,1,60.4,1.812,True,0.2054,50.0,19.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,32.0,107.208,HARD,32.0,1.0,,,10.0,1,58.8,1.764,True,0.2054,50.0,18.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,33.0,107.341,HARD,33.0,1.0,,,10.0,1,57.2,1.716,True,0.2054,50.0,17.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,34.0,106.731,HARD,34.0,1.0,,,10.0,1,55.6,1.668,True,0.2054,50.0,16.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,35.0,107.138,HARD,35.0,1.0,,,10.0,1,54.0,1.62,True,0.2054,50.0,15.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,36.0,107.163,HARD,36.0,1.0,,,10.0,1,52.4,1.572,True,0.2054,50.0,14.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,37.0,106.866,HARD,37.0,1.0,,,10.0,1,50.8,1.524,True,0.2054,50.0,13.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,38.0,106.848,HARD,38.0,1.0,,,10.0,1,49.2,1.476,True,0.2054,50.0,12.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,39.0,106.742,HARD,39.0,1.0,,,10.0,1,47.6,1.428,True,0.2054,50.0,11.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,40.0,106.926,HARD,40.0,1.0,,,10.0,1,46.0,1.38,True,0.2054,50.0,10.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,41.0,106.945,HARD,41.0,1.0,,,10.0,1,44.4,1.332,True,0.2054,50.0,9.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,42.0,106.861,HARD,42.0,1.0,,,10.0,1,42.8,1.284,True,0.2054,50.0,8.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,43.0,107.155,HARD,43.0,1.0,,,10.0,1,41.2,1.236,True,0.2054,50.0,7.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,44.0,107.123,HARD,44.0,1.0,,,10.0,1,39.6,1.188,True,0.2054,50.0,6.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,45.0,109.701,HARD,45.0,1.0,,,11.0,1,38.0,1.14,True,0.2054,50.0,5.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,46.0,107.65,HARD,46.0,1.0,,,12.0,1,36.4,1.092,True,0.2054,50.0,4.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,47.0,108.374,HARD,47.0,1.0,,,12.0,1,34.8,1.044,True,0.2054,50.0,3.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,48.0,109.008,HARD,48.0,1.0,,,14.0,12,33.2,0.996,True,0.2054,50.0,2.0,0,0,0
+Azerbaijan,2023,HUL,Haas F1 Team,49.0,113.182,HARD,49.0,1.0,9226.582,,16.0,1,31.6,0.948,False,0.2054,50.0,1.0,0,0,1
+Azerbaijan,2023,HUL,Haas F1 Team,50.0,126.546,SOFT,1.0,2.0,,9251.269,17.0,1,30.0,0.9,False,-0.0574,50.0,0.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,1.0,122.501,HARD,1.0,1.0,,3795.242,19.0,12,108.4,3.252,False,0.2025,51.0,50.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,2.0,110.023,HARD,2.0,1.0,,,19.0,1,106.8,3.204,True,0.2025,51.0,49.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,3.0,109.485,HARD,3.0,1.0,,,19.0,1,105.2,3.156,True,0.2025,51.0,48.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,4.0,109.023,HARD,4.0,1.0,,,19.0,1,103.6,3.108,True,0.2025,51.0,47.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,5.0,109.005,HARD,5.0,1.0,,,18.0,1,102.0,3.06,True,0.2025,51.0,46.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,6.0,109.117,HARD,6.0,1.0,,,17.0,1,100.4,3.012,True,0.2025,51.0,45.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,7.0,108.571,HARD,7.0,1.0,,,17.0,1,98.8,2.964,True,0.2025,51.0,44.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,8.0,109.196,HARD,8.0,1.0,,,15.0,1,97.2,2.916,True,0.2025,51.0,43.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,9.0,109.081,HARD,9.0,1.0,,,13.0,1,95.6,2.868,True,0.2025,51.0,42.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,10.0,115.103,HARD,10.0,1.0,,,9.0,124,94.0,2.82,False,0.2025,51.0,41.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,11.0,,HARD,11.0,1.0,,,9.0,4,92.4,2.772,False,0.2025,51.0,40.0,1,0,0
+Azerbaijan,2023,OCO,Alpine,12.0,144.487,HARD,12.0,1.0,,,8.0,4,90.8,2.724,False,0.2025,51.0,39.0,1,0,0
+Azerbaijan,2023,OCO,Alpine,13.0,,HARD,13.0,1.0,,,8.0,41,89.2,2.676,False,0.2025,51.0,38.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,14.0,111.269,HARD,14.0,1.0,,,9.0,1,87.6,2.628,True,0.2025,51.0,37.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,15.0,108.156,HARD,15.0,1.0,,,9.0,1,86.0,2.58,True,0.2025,51.0,36.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,16.0,107.633,HARD,16.0,1.0,,,9.0,1,84.4,2.532,True,0.2025,51.0,35.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,17.0,107.681,HARD,17.0,1.0,,,9.0,12,82.8,2.484,True,0.2025,51.0,34.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,18.0,107.454,HARD,18.0,1.0,,,9.0,1,81.2,2.436,True,0.2025,51.0,33.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,19.0,107.656,HARD,19.0,1.0,,,9.0,1,79.6,2.388,True,0.2025,51.0,32.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,20.0,107.586,HARD,20.0,1.0,,,9.0,1,78.0,2.34,True,0.2025,51.0,31.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,21.0,107.553,HARD,21.0,1.0,,,9.0,1,76.4,2.292,True,0.2025,51.0,30.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,22.0,108.172,HARD,22.0,1.0,,,9.0,1,74.8,2.244,True,0.2025,51.0,29.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,23.0,108.978,HARD,23.0,1.0,,,9.0,1,73.2,2.196,True,0.2025,51.0,28.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,24.0,107.88,HARD,24.0,1.0,,,9.0,1,71.6,2.148,True,0.2025,51.0,27.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,25.0,108.055,HARD,25.0,1.0,,,9.0,1,70.0,2.1,True,0.2025,51.0,26.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,26.0,107.604,HARD,26.0,1.0,,,9.0,1,68.4,2.052,True,0.2025,51.0,25.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,27.0,107.782,HARD,27.0,1.0,,,9.0,1,66.8,2.004,True,0.2025,51.0,24.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,28.0,107.665,HARD,28.0,1.0,,,9.0,1,65.2,1.956,True,0.2025,51.0,23.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,29.0,107.834,HARD,29.0,1.0,,,9.0,1,63.6,1.908,True,0.2025,51.0,22.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,30.0,107.451,HARD,30.0,1.0,,,9.0,1,62.0,1.86,True,0.2025,51.0,21.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,31.0,107.324,HARD,31.0,1.0,,,9.0,1,60.4,1.812,True,0.2025,51.0,20.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,32.0,107.232,HARD,32.0,1.0,,,9.0,1,58.8,1.764,True,0.2025,51.0,19.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,33.0,107.09,HARD,33.0,1.0,,,9.0,1,57.2,1.716,True,0.2025,51.0,18.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,34.0,107.074,HARD,34.0,1.0,,,9.0,1,55.6,1.668,True,0.2025,51.0,17.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,35.0,107.028,HARD,35.0,1.0,,,9.0,1,54.0,1.62,True,0.2025,51.0,16.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,36.0,107.293,HARD,36.0,1.0,,,9.0,1,52.4,1.572,True,0.2025,51.0,15.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,37.0,106.719,HARD,37.0,1.0,,,9.0,1,50.8,1.524,True,0.2025,51.0,14.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,38.0,106.607,HARD,38.0,1.0,,,9.0,1,49.2,1.476,True,0.2025,51.0,13.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,39.0,106.897,HARD,39.0,1.0,,,9.0,1,47.6,1.428,True,0.2025,51.0,12.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,40.0,106.893,HARD,40.0,1.0,,,9.0,1,46.0,1.38,True,0.2025,51.0,11.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,41.0,106.826,HARD,41.0,1.0,,,9.0,1,44.4,1.332,True,0.2025,51.0,10.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,42.0,106.7,HARD,42.0,1.0,,,9.0,1,42.8,1.284,True,0.2025,51.0,9.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,43.0,106.784,HARD,43.0,1.0,,,9.0,1,41.2,1.236,True,0.2025,51.0,8.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,44.0,106.669,HARD,44.0,1.0,,,9.0,1,39.6,1.188,True,0.2025,51.0,7.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,45.0,106.871,HARD,45.0,1.0,,,9.0,1,38.0,1.14,True,0.2025,51.0,6.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,46.0,106.606,HARD,46.0,1.0,,,9.0,1,36.4,1.092,True,0.2025,51.0,5.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,47.0,106.527,HARD,47.0,1.0,,,9.0,1,34.8,1.044,True,0.2025,51.0,4.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,48.0,106.414,HARD,48.0,1.0,,,9.0,12,33.2,0.996,True,0.2025,51.0,3.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,49.0,105.908,HARD,49.0,1.0,,,9.0,1,31.6,0.948,True,0.2025,51.0,2.0,0,0,0
+Azerbaijan,2023,OCO,Alpine,50.0,110.932,HARD,50.0,1.0,9319.705,,10.0,1,30.0,0.9,False,0.2025,51.0,1.0,0,0,1
+Azerbaijan,2023,OCO,Alpine,51.0,121.249,SOFT,1.0,2.0,,9340.064,15.0,1,28.4,0.852,False,-0.6075,51.0,0.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,1.0,115.413,MEDIUM,1.0,1.0,,,8.0,12,108.4,3.252,False,-0.179,51.0,50.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,2.0,108.739,MEDIUM,2.0,1.0,,,8.0,1,106.8,3.204,True,-0.179,51.0,49.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,3.0,108.094,MEDIUM,3.0,1.0,,,8.0,1,105.2,3.156,True,-0.179,51.0,48.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,4.0,108.096,MEDIUM,4.0,1.0,,,8.0,1,103.6,3.108,True,-0.179,51.0,47.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,5.0,108.08,MEDIUM,5.0,1.0,,,8.0,1,102.0,3.06,True,-0.179,51.0,46.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,6.0,108.216,MEDIUM,6.0,1.0,,,8.0,1,100.4,3.012,True,-0.179,51.0,45.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,7.0,108.248,MEDIUM,7.0,1.0,,,8.0,1,98.8,2.964,True,-0.179,51.0,44.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,8.0,108.336,MEDIUM,8.0,1.0,,,8.0,1,97.2,2.916,True,-0.179,51.0,43.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,9.0,112.343,MEDIUM,9.0,1.0,4766.272,,9.0,1,95.6,2.868,False,-0.179,51.0,42.0,0,0,1
+Azerbaijan,2023,NOR,McLaren,10.0,135.72,HARD,1.0,2.0,,4786.631,13.0,124,94.0,2.82,False,-0.2607,51.0,41.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,11.0,147.163,HARD,2.0,2.0,,,12.0,4,92.4,2.772,False,-0.2607,51.0,40.0,1,0,0
+Azerbaijan,2023,NOR,McLaren,12.0,140.862,HARD,3.0,2.0,,,11.0,4,90.8,2.724,False,-0.2607,51.0,39.0,1,0,0
+Azerbaijan,2023,NOR,McLaren,13.0,,HARD,4.0,2.0,,,11.0,41,89.2,2.676,False,-0.2607,51.0,38.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,14.0,111.811,HARD,5.0,2.0,,,11.0,1,87.6,2.628,True,-0.2607,51.0,37.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,15.0,108.489,HARD,6.0,2.0,,,11.0,1,86.0,2.58,True,-0.2607,51.0,36.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,16.0,107.832,HARD,7.0,2.0,,,11.0,1,84.4,2.532,True,-0.2607,51.0,35.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,17.0,107.967,HARD,8.0,2.0,,,11.0,12,82.8,2.484,True,-0.2607,51.0,34.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,18.0,107.516,HARD,9.0,2.0,,,11.0,1,81.2,2.436,True,-0.2607,51.0,33.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,19.0,107.354,HARD,10.0,2.0,,,11.0,1,79.6,2.388,True,-0.2607,51.0,32.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,20.0,107.343,HARD,11.0,2.0,,,11.0,1,78.0,2.34,True,-0.2607,51.0,31.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,21.0,108.366,HARD,12.0,2.0,,,11.0,1,76.4,2.292,True,-0.2607,51.0,30.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,22.0,107.676,HARD,13.0,2.0,,,11.0,1,74.8,2.244,True,-0.2607,51.0,29.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,23.0,108.343,HARD,14.0,2.0,,,11.0,1,73.2,2.196,True,-0.2607,51.0,28.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,24.0,108.318,HARD,15.0,2.0,,,11.0,1,71.6,2.148,True,-0.2607,51.0,27.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,25.0,107.782,HARD,16.0,2.0,,,11.0,1,70.0,2.1,True,-0.2607,51.0,26.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,26.0,107.882,HARD,17.0,2.0,,,11.0,1,68.4,2.052,True,-0.2607,51.0,25.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,27.0,108.021,HARD,18.0,2.0,,,11.0,1,66.8,2.004,True,-0.2607,51.0,24.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,28.0,107.994,HARD,19.0,2.0,,,11.0,1,65.2,1.956,True,-0.2607,51.0,23.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,29.0,107.445,HARD,20.0,2.0,,,11.0,1,63.6,1.908,True,-0.2607,51.0,22.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,30.0,107.449,HARD,21.0,2.0,,,11.0,1,62.0,1.86,True,-0.2607,51.0,21.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,31.0,107.388,HARD,22.0,2.0,,,11.0,1,60.4,1.812,True,-0.2607,51.0,20.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,32.0,107.17,HARD,23.0,2.0,,,11.0,1,58.8,1.764,True,-0.2607,51.0,19.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,33.0,107.241,HARD,24.0,2.0,,,11.0,1,57.2,1.716,True,-0.2607,51.0,18.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,34.0,107.1,HARD,25.0,2.0,,,11.0,1,55.6,1.668,True,-0.2607,51.0,17.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,35.0,106.741,HARD,26.0,2.0,,,11.0,1,54.0,1.62,True,-0.2607,51.0,16.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,36.0,107.354,HARD,27.0,2.0,,,11.0,1,52.4,1.572,True,-0.2607,51.0,15.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,37.0,106.896,HARD,28.0,2.0,,,11.0,1,50.8,1.524,True,-0.2607,51.0,14.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,38.0,106.685,HARD,29.0,2.0,,,11.0,1,49.2,1.476,True,-0.2607,51.0,13.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,39.0,106.898,HARD,30.0,2.0,,,11.0,1,47.6,1.428,True,-0.2607,51.0,12.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,40.0,106.937,HARD,31.0,2.0,,,11.0,1,46.0,1.38,True,-0.2607,51.0,11.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,41.0,106.863,HARD,32.0,2.0,,,11.0,1,44.4,1.332,True,-0.2607,51.0,10.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,42.0,106.641,HARD,33.0,2.0,,,11.0,1,42.8,1.284,True,-0.2607,51.0,9.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,43.0,106.932,HARD,34.0,2.0,,,11.0,1,41.2,1.236,True,-0.2607,51.0,8.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,44.0,107.27,HARD,35.0,2.0,,,11.0,1,39.6,1.188,True,-0.2607,51.0,7.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,45.0,107.741,HARD,36.0,2.0,,,10.0,1,38.0,1.14,True,-0.2607,51.0,6.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,46.0,106.134,HARD,37.0,2.0,,,10.0,1,36.4,1.092,True,-0.2607,51.0,5.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,47.0,106.188,HARD,38.0,2.0,,,10.0,1,34.8,1.044,True,-0.2607,51.0,4.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,48.0,106.197,HARD,39.0,2.0,,,10.0,12,33.2,0.996,True,-0.2607,51.0,3.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,49.0,105.738,HARD,40.0,2.0,,,10.0,1,31.6,0.948,True,-0.2607,51.0,2.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,50.0,106.056,HARD,41.0,2.0,,,9.0,1,30.0,0.9,True,-0.2607,51.0,1.0,0,0,0
+Azerbaijan,2023,NOR,McLaren,51.0,106.397,HARD,42.0,2.0,,,9.0,1,28.4,0.852,True,-0.2607,51.0,0.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,1.0,113.406,MEDIUM,1.0,1.0,,,5.0,12,108.4,3.252,False,-0.2872,51.0,50.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,2.0,108.165,MEDIUM,2.0,1.0,,,5.0,1,106.8,3.204,True,-0.2872,51.0,49.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,3.0,107.602,MEDIUM,3.0,1.0,,,5.0,1,105.2,3.156,True,-0.2872,51.0,48.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,4.0,107.76,MEDIUM,4.0,1.0,,,5.0,1,103.6,3.108,True,-0.2872,51.0,47.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,5.0,107.791,MEDIUM,5.0,1.0,,,5.0,1,102.0,3.06,True,-0.2872,51.0,46.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,6.0,107.916,MEDIUM,6.0,1.0,,,5.0,1,100.4,3.012,True,-0.2872,51.0,45.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,7.0,107.816,MEDIUM,7.0,1.0,,,5.0,1,98.8,2.964,True,-0.2872,51.0,44.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,8.0,107.929,MEDIUM,8.0,1.0,,,5.0,1,97.2,2.916,True,-0.2872,51.0,43.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,9.0,113.178,MEDIUM,9.0,1.0,4762.287,,7.0,1,95.6,2.868,False,-0.2872,51.0,42.0,0,0,1
+Azerbaijan,2023,HAM,Mercedes,10.0,131.469,HARD,1.0,2.0,,4782.6,11.0,124,94.0,2.82,False,-0.1122,51.0,41.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,11.0,149.985,HARD,2.0,2.0,,,11.0,4,92.4,2.772,False,-0.1122,51.0,40.0,1,0,0
+Azerbaijan,2023,HAM,Mercedes,12.0,145.161,HARD,3.0,2.0,,,10.0,4,90.8,2.724,False,-0.1122,51.0,39.0,1,0,0
+Azerbaijan,2023,HAM,Mercedes,13.0,,HARD,4.0,2.0,,,10.0,41,89.2,2.676,False,-0.1122,51.0,38.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,14.0,109.877,HARD,5.0,2.0,,,8.0,1,87.6,2.628,True,-0.1122,51.0,37.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,15.0,107.259,HARD,6.0,2.0,,,7.0,1,86.0,2.58,True,-0.1122,51.0,36.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,16.0,106.709,HARD,7.0,2.0,,,7.0,1,84.4,2.532,True,-0.1122,51.0,35.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,17.0,107.383,HARD,8.0,2.0,,,7.0,12,82.8,2.484,True,-0.1122,51.0,34.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,18.0,107.204,HARD,9.0,2.0,,,7.0,1,81.2,2.436,True,-0.1122,51.0,33.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,19.0,106.747,HARD,10.0,2.0,,,6.0,1,79.6,2.388,True,-0.1122,51.0,32.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,20.0,106.734,HARD,11.0,2.0,,,6.0,1,78.0,2.34,True,-0.1122,51.0,31.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,21.0,106.809,HARD,12.0,2.0,,,6.0,1,76.4,2.292,True,-0.1122,51.0,30.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,22.0,106.8,HARD,13.0,2.0,,,6.0,1,74.8,2.244,True,-0.1122,51.0,29.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,23.0,106.678,HARD,14.0,2.0,,,6.0,1,73.2,2.196,True,-0.1122,51.0,28.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,24.0,106.628,HARD,15.0,2.0,,,6.0,1,71.6,2.148,True,-0.1122,51.0,27.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,25.0,107.177,HARD,16.0,2.0,,,6.0,1,70.0,2.1,True,-0.1122,51.0,26.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,26.0,108.001,HARD,17.0,2.0,,,6.0,1,68.4,2.052,True,-0.1122,51.0,25.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,27.0,106.728,HARD,18.0,2.0,,,6.0,1,66.8,2.004,True,-0.1122,51.0,24.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,28.0,106.904,HARD,19.0,2.0,,,6.0,1,65.2,1.956,True,-0.1122,51.0,23.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,29.0,106.611,HARD,20.0,2.0,,,6.0,1,63.6,1.908,True,-0.1122,51.0,22.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,30.0,106.689,HARD,21.0,2.0,,,6.0,1,62.0,1.86,True,-0.1122,51.0,21.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,31.0,106.558,HARD,22.0,2.0,,,6.0,1,60.4,1.812,True,-0.1122,51.0,20.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,32.0,106.583,HARD,23.0,2.0,,,6.0,1,58.8,1.764,True,-0.1122,51.0,19.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,33.0,106.218,HARD,24.0,2.0,,,6.0,1,57.2,1.716,True,-0.1122,51.0,18.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,34.0,106.27,HARD,25.0,2.0,,,6.0,1,55.6,1.668,True,-0.1122,51.0,17.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,35.0,105.834,HARD,26.0,2.0,,,6.0,1,54.0,1.62,True,-0.1122,51.0,16.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,36.0,106.206,HARD,27.0,2.0,,,6.0,1,52.4,1.572,True,-0.1122,51.0,15.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,37.0,106.29,HARD,28.0,2.0,,,6.0,1,50.8,1.524,True,-0.1122,51.0,14.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,38.0,106.106,HARD,29.0,2.0,,,6.0,1,49.2,1.476,True,-0.1122,51.0,13.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,39.0,105.833,HARD,30.0,2.0,,,6.0,1,47.6,1.428,True,-0.1122,51.0,12.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,40.0,106.284,HARD,31.0,2.0,,,6.0,1,46.0,1.38,True,-0.1122,51.0,11.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,41.0,106.731,HARD,32.0,2.0,,,6.0,1,44.4,1.332,True,-0.1122,51.0,10.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,42.0,106.206,HARD,33.0,2.0,,,6.0,1,42.8,1.284,True,-0.1122,51.0,9.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,43.0,105.714,HARD,34.0,2.0,,,6.0,1,41.2,1.236,True,-0.1122,51.0,8.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,44.0,105.54,HARD,35.0,2.0,,,6.0,1,39.6,1.188,True,-0.1122,51.0,7.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,45.0,105.571,HARD,36.0,2.0,,,6.0,1,38.0,1.14,True,-0.1122,51.0,6.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,46.0,105.951,HARD,37.0,2.0,,,6.0,1,36.4,1.092,True,-0.1122,51.0,5.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,47.0,105.583,HARD,38.0,2.0,,,6.0,1,34.8,1.044,True,-0.1122,51.0,4.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,48.0,105.346,HARD,39.0,2.0,,,6.0,1,33.2,0.996,True,-0.1122,51.0,3.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,49.0,105.439,HARD,40.0,2.0,,,6.0,12,31.6,0.948,True,-0.1122,51.0,2.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,50.0,105.385,HARD,41.0,2.0,,,6.0,1,30.0,0.9,True,-0.1122,51.0,1.0,0,0,0
+Azerbaijan,2023,HAM,Mercedes,51.0,105.42,HARD,42.0,2.0,,,6.0,1,28.4,0.852,True,-0.1122,51.0,0.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,1.0,112.645,MEDIUM,1.0,1.0,,,4.0,12,108.4,3.252,False,-0.1998,51.0,50.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,2.0,107.774,MEDIUM,2.0,1.0,,,4.0,1,106.8,3.204,True,-0.1998,51.0,49.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,3.0,107.928,MEDIUM,3.0,1.0,,,4.0,1,105.2,3.156,True,-0.1998,51.0,48.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,4.0,107.898,MEDIUM,4.0,1.0,,,4.0,1,103.6,3.108,True,-0.1998,51.0,47.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,5.0,107.877,MEDIUM,5.0,1.0,,,4.0,1,102.0,3.06,True,-0.1998,51.0,46.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,6.0,107.649,MEDIUM,6.0,1.0,,,4.0,1,100.4,3.012,True,-0.1998,51.0,45.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,7.0,107.262,MEDIUM,7.0,1.0,,,4.0,1,98.8,2.964,True,-0.1998,51.0,44.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,8.0,107.591,MEDIUM,8.0,1.0,,,4.0,1,97.2,2.916,True,-0.1998,51.0,43.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,9.0,107.803,MEDIUM,9.0,1.0,,,4.0,1,95.6,2.868,True,-0.1998,51.0,42.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,10.0,107.412,MEDIUM,10.0,1.0,,,4.0,12,94.0,2.82,True,-0.1998,51.0,41.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,11.0,,MEDIUM,11.0,1.0,5012.127,,3.0,24,92.4,2.772,False,-0.1998,51.0,40.0,0,0,1
+Azerbaijan,2023,SAI,Ferrari,12.0,,HARD,1.0,2.0,,5034.079,4.0,4,90.8,2.724,False,-0.0519,51.0,39.0,1,0,0
+Azerbaijan,2023,SAI,Ferrari,13.0,,HARD,2.0,2.0,,,4.0,41,89.2,2.676,False,-0.0519,51.0,38.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,14.0,109.508,HARD,3.0,2.0,,,5.0,1,87.6,2.628,True,-0.0519,51.0,37.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,15.0,107.279,HARD,4.0,2.0,,,5.0,1,86.0,2.58,True,-0.0519,51.0,36.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,16.0,106.75,HARD,5.0,2.0,,,5.0,1,84.4,2.532,True,-0.0519,51.0,35.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,17.0,107.353,HARD,6.0,2.0,,,5.0,12,82.8,2.484,True,-0.0519,51.0,34.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,18.0,106.971,HARD,7.0,2.0,,,5.0,1,81.2,2.436,True,-0.0519,51.0,33.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,19.0,106.956,HARD,8.0,2.0,,,5.0,1,79.6,2.388,True,-0.0519,51.0,32.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,20.0,107.237,HARD,9.0,2.0,,,5.0,1,78.0,2.34,True,-0.0519,51.0,31.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,21.0,106.901,HARD,10.0,2.0,,,5.0,1,76.4,2.292,True,-0.0519,51.0,30.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,22.0,106.918,HARD,11.0,2.0,,,5.0,1,74.8,2.244,True,-0.0519,51.0,29.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,23.0,107.088,HARD,12.0,2.0,,,5.0,1,73.2,2.196,True,-0.0519,51.0,28.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,24.0,106.56,HARD,13.0,2.0,,,5.0,1,71.6,2.148,True,-0.0519,51.0,27.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,25.0,106.963,HARD,14.0,2.0,,,5.0,1,70.0,2.1,True,-0.0519,51.0,26.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,26.0,107.292,HARD,15.0,2.0,,,5.0,1,68.4,2.052,True,-0.0519,51.0,25.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,27.0,106.915,HARD,16.0,2.0,,,5.0,1,66.8,2.004,True,-0.0519,51.0,24.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,28.0,106.689,HARD,17.0,2.0,,,5.0,1,65.2,1.956,True,-0.0519,51.0,23.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,29.0,106.743,HARD,18.0,2.0,,,5.0,1,63.6,1.908,True,-0.0519,51.0,22.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,30.0,106.619,HARD,19.0,2.0,,,5.0,1,62.0,1.86,True,-0.0519,51.0,21.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,31.0,106.801,HARD,20.0,2.0,,,5.0,1,60.4,1.812,True,-0.0519,51.0,20.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,32.0,106.545,HARD,21.0,2.0,,,5.0,1,58.8,1.764,True,-0.0519,51.0,19.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,33.0,106.39,HARD,22.0,2.0,,,5.0,1,57.2,1.716,True,-0.0519,51.0,18.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,34.0,106.289,HARD,23.0,2.0,,,5.0,1,55.6,1.668,True,-0.0519,51.0,17.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,35.0,106.37,HARD,24.0,2.0,,,5.0,1,54.0,1.62,True,-0.0519,51.0,16.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,36.0,106.318,HARD,25.0,2.0,,,5.0,1,52.4,1.572,True,-0.0519,51.0,15.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,37.0,106.189,HARD,26.0,2.0,,,5.0,1,50.8,1.524,True,-0.0519,51.0,14.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,38.0,105.804,HARD,27.0,2.0,,,5.0,1,49.2,1.476,True,-0.0519,51.0,13.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,39.0,106.195,HARD,28.0,2.0,,,5.0,1,47.6,1.428,True,-0.0519,51.0,12.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,40.0,106.527,HARD,29.0,2.0,,,5.0,1,46.0,1.38,True,-0.0519,51.0,11.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,41.0,106.594,HARD,30.0,2.0,,,5.0,1,44.4,1.332,True,-0.0519,51.0,10.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,42.0,106.002,HARD,31.0,2.0,,,5.0,1,42.8,1.284,True,-0.0519,51.0,9.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,43.0,105.783,HARD,32.0,2.0,,,5.0,1,41.2,1.236,True,-0.0519,51.0,8.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,44.0,105.498,HARD,33.0,2.0,,,5.0,1,39.6,1.188,True,-0.0519,51.0,7.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,45.0,105.663,HARD,34.0,2.0,,,5.0,1,38.0,1.14,True,-0.0519,51.0,6.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,46.0,105.507,HARD,35.0,2.0,,,5.0,1,36.4,1.092,True,-0.0519,51.0,5.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,47.0,105.608,HARD,36.0,2.0,,,5.0,1,34.8,1.044,True,-0.0519,51.0,4.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,48.0,105.175,HARD,37.0,2.0,,,5.0,1,33.2,0.996,True,-0.0519,51.0,3.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,49.0,105.471,HARD,38.0,2.0,,,5.0,12,31.6,0.948,True,-0.0519,51.0,2.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,50.0,105.533,HARD,39.0,2.0,,,5.0,1,30.0,0.9,True,-0.0519,51.0,1.0,0,0,0
+Azerbaijan,2023,SAI,Ferrari,51.0,105.753,HARD,40.0,2.0,,,5.0,1,28.4,0.852,True,-0.0519,51.0,0.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,1.0,116.394,MEDIUM,1.0,1.0,,,9.0,12,108.4,3.252,False,-0.2473,51.0,50.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,2.0,108.818,MEDIUM,2.0,1.0,,,9.0,1,106.8,3.204,True,-0.2473,51.0,49.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,3.0,107.908,MEDIUM,3.0,1.0,,,9.0,1,105.2,3.156,True,-0.2473,51.0,48.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,4.0,108.252,MEDIUM,4.0,1.0,,,9.0,1,103.6,3.108,True,-0.2473,51.0,47.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,5.0,108.443,MEDIUM,5.0,1.0,,,9.0,1,102.0,3.06,True,-0.2473,51.0,46.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,6.0,108.174,MEDIUM,6.0,1.0,,,9.0,1,100.4,3.012,True,-0.2473,51.0,45.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,7.0,108.314,MEDIUM,7.0,1.0,,,9.0,1,98.8,2.964,True,-0.2473,51.0,44.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,8.0,108.088,MEDIUM,8.0,1.0,,,9.0,1,97.2,2.916,True,-0.2473,51.0,43.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,9.0,107.757,MEDIUM,9.0,1.0,,,8.0,1,95.6,2.868,True,-0.2473,51.0,42.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,10.0,107.662,MEDIUM,10.0,1.0,,,7.0,12,94.0,2.82,True,-0.2473,51.0,41.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,11.0,,MEDIUM,11.0,1.0,5021.142,,5.0,24,92.4,2.772,False,-0.2473,51.0,40.0,0,0,1
+Azerbaijan,2023,RUS,Mercedes,12.0,,HARD,1.0,2.0,,5041.579,6.0,4,90.8,2.724,False,-0.2932,51.0,39.0,1,0,0
+Azerbaijan,2023,RUS,Mercedes,13.0,,HARD,2.0,2.0,,,6.0,41,89.2,2.676,False,-0.2932,51.0,38.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,14.0,110.486,HARD,3.0,2.0,,,7.0,1,87.6,2.628,True,-0.2932,51.0,37.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,15.0,108.356,HARD,4.0,2.0,,,8.0,1,86.0,2.58,True,-0.2932,51.0,36.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,16.0,107.401,HARD,5.0,2.0,,,8.0,1,84.4,2.532,True,-0.2932,51.0,35.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,17.0,107.396,HARD,6.0,2.0,,,8.0,12,82.8,2.484,True,-0.2932,51.0,34.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,18.0,107.177,HARD,7.0,2.0,,,8.0,1,81.2,2.436,True,-0.2932,51.0,33.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,19.0,106.563,HARD,8.0,2.0,,,8.0,1,79.6,2.388,True,-0.2932,51.0,32.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,20.0,106.887,HARD,9.0,2.0,,,8.0,1,78.0,2.34,True,-0.2932,51.0,31.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,21.0,107.577,HARD,10.0,2.0,,,8.0,1,76.4,2.292,True,-0.2932,51.0,30.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,22.0,107.04,HARD,11.0,2.0,,,8.0,1,74.8,2.244,True,-0.2932,51.0,29.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,23.0,106.615,HARD,12.0,2.0,,,8.0,1,73.2,2.196,True,-0.2932,51.0,28.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,24.0,107.402,HARD,13.0,2.0,,,8.0,1,71.6,2.148,True,-0.2932,51.0,27.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,25.0,107.082,HARD,14.0,2.0,,,8.0,1,70.0,2.1,True,-0.2932,51.0,26.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,26.0,106.953,HARD,15.0,2.0,,,8.0,1,68.4,2.052,True,-0.2932,51.0,25.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,27.0,107.099,HARD,16.0,2.0,,,8.0,1,66.8,2.004,True,-0.2932,51.0,24.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,28.0,106.973,HARD,17.0,2.0,,,8.0,1,65.2,1.956,True,-0.2932,51.0,23.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,29.0,106.829,HARD,18.0,2.0,,,8.0,1,63.6,1.908,True,-0.2932,51.0,22.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,30.0,106.332,HARD,19.0,2.0,,,8.0,1,62.0,1.86,True,-0.2932,51.0,21.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,31.0,106.617,HARD,20.0,2.0,,,8.0,1,60.4,1.812,True,-0.2932,51.0,20.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,32.0,106.956,HARD,21.0,2.0,,,8.0,1,58.8,1.764,True,-0.2932,51.0,19.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,33.0,106.891,HARD,22.0,2.0,,,8.0,1,57.2,1.716,True,-0.2932,51.0,18.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,34.0,106.538,HARD,23.0,2.0,,,8.0,1,55.6,1.668,True,-0.2932,51.0,17.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,35.0,106.545,HARD,24.0,2.0,,,8.0,1,54.0,1.62,True,-0.2932,51.0,16.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,36.0,106.145,HARD,25.0,2.0,,,8.0,1,52.4,1.572,True,-0.2932,51.0,15.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,37.0,106.234,HARD,26.0,2.0,,,8.0,1,50.8,1.524,True,-0.2932,51.0,14.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,38.0,105.935,HARD,27.0,2.0,,,8.0,1,49.2,1.476,True,-0.2932,51.0,13.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,39.0,105.889,HARD,28.0,2.0,,,8.0,1,47.6,1.428,True,-0.2932,51.0,12.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,40.0,105.977,HARD,29.0,2.0,,,8.0,1,46.0,1.38,True,-0.2932,51.0,11.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,41.0,106.023,HARD,30.0,2.0,,,8.0,1,44.4,1.332,True,-0.2932,51.0,10.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,42.0,105.736,HARD,31.0,2.0,,,8.0,1,42.8,1.284,True,-0.2932,51.0,9.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,43.0,105.901,HARD,32.0,2.0,,,8.0,1,41.2,1.236,True,-0.2932,51.0,8.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,44.0,106.089,HARD,33.0,2.0,,,8.0,1,39.6,1.188,True,-0.2932,51.0,7.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,45.0,105.74,HARD,34.0,2.0,,,8.0,1,38.0,1.14,True,-0.2932,51.0,6.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,46.0,105.753,HARD,35.0,2.0,,,8.0,1,36.4,1.092,True,-0.2932,51.0,5.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,47.0,105.662,HARD,36.0,2.0,,,8.0,1,34.8,1.044,True,-0.2932,51.0,4.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,48.0,105.734,HARD,37.0,2.0,,,8.0,1,33.2,0.996,True,-0.2932,51.0,3.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,49.0,112.152,HARD,38.0,2.0,9189.254,,8.0,12,31.6,0.948,False,-0.2932,51.0,2.0,0,0,1
+Azerbaijan,2023,RUS,Mercedes,50.0,124.793,SOFT,1.0,3.0,,9210.613,8.0,1,30.0,0.9,False,-0.3723,51.0,1.0,0,0,0
+Azerbaijan,2023,RUS,Mercedes,51.0,103.37,SOFT,2.0,3.0,,,8.0,1,28.4,0.852,True,-0.3723,51.0,0.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,1.0,122.059,MEDIUM,1.0,1.0,,,18.0,12,108.4,3.252,False,-0.0484,50.0,49.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,2.0,110.064,MEDIUM,2.0,1.0,,,18.0,1,106.8,3.204,True,-0.0484,50.0,48.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,3.0,109.439,MEDIUM,3.0,1.0,,,18.0,1,105.2,3.156,True,-0.0484,50.0,47.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,4.0,108.992,MEDIUM,4.0,1.0,,,18.0,1,103.6,3.108,True,-0.0484,50.0,46.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,5.0,109.019,MEDIUM,5.0,1.0,,,17.0,1,102.0,3.06,True,-0.0484,50.0,45.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,6.0,113.204,MEDIUM,6.0,1.0,4453.48,,19.0,1,100.4,3.012,False,-0.0484,50.0,44.0,0,0,1
+Azerbaijan,2023,BOT,Alfa Romeo,7.0,124.955,HARD,1.0,2.0,,4474.636,20.0,1,98.8,2.964,False,-1.346,50.0,43.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,8.0,108.297,HARD,2.0,2.0,,,20.0,1,97.2,2.916,True,-1.346,50.0,42.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,9.0,109.739,HARD,3.0,2.0,,,20.0,1,95.6,2.868,True,-1.346,50.0,41.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,10.0,124.641,HARD,4.0,2.0,,,19.0,124,94.0,2.82,False,-1.346,50.0,40.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,11.0,,HARD,5.0,2.0,,,19.0,4,92.4,2.772,False,-1.346,50.0,39.0,1,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,12.0,133.014,HARD,6.0,2.0,5206.748,,19.0,4,90.8,2.724,False,-1.346,50.0,38.0,1,0,1
+Azerbaijan,2023,BOT,Alfa Romeo,13.0,140.098,HARD,1.0,3.0,,5229.107,19.0,41,89.2,2.676,False,-0.3895,50.0,37.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,14.0,113.128,HARD,2.0,3.0,,,19.0,1,87.6,2.628,True,-0.3895,50.0,36.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,15.0,109.679,HARD,3.0,3.0,,,19.0,1,86.0,2.58,True,-0.3895,50.0,35.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,16.0,108.513,HARD,4.0,3.0,,,19.0,1,84.4,2.532,True,-0.3895,50.0,34.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,17.0,108.769,HARD,5.0,3.0,,,19.0,12,82.8,2.484,True,-0.3895,50.0,33.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,18.0,108.46,HARD,6.0,3.0,,,19.0,1,81.2,2.436,True,-0.3895,50.0,32.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,19.0,108.853,HARD,7.0,3.0,,,19.0,1,79.6,2.388,True,-0.3895,50.0,31.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,20.0,108.28,HARD,8.0,3.0,,,19.0,1,78.0,2.34,True,-0.3895,50.0,30.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,21.0,108.319,HARD,9.0,3.0,,,19.0,1,76.4,2.292,True,-0.3895,50.0,29.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,22.0,108.316,HARD,10.0,3.0,,,19.0,1,74.8,2.244,True,-0.3895,50.0,28.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,23.0,108.097,HARD,11.0,3.0,,,19.0,1,73.2,2.196,True,-0.3895,50.0,27.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,24.0,108.32,HARD,12.0,3.0,,,18.0,1,71.6,2.148,True,-0.3895,50.0,26.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,25.0,108.039,HARD,13.0,3.0,,,18.0,1,70.0,2.1,True,-0.3895,50.0,25.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,26.0,108.552,HARD,14.0,3.0,,,18.0,1,68.4,2.052,True,-0.3895,50.0,24.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,27.0,108.333,HARD,15.0,3.0,,,18.0,1,66.8,2.004,True,-0.3895,50.0,23.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,28.0,109.576,HARD,16.0,3.0,,,18.0,1,65.2,1.956,True,-0.3895,50.0,22.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,29.0,108.065,HARD,17.0,3.0,,,18.0,1,63.6,1.908,True,-0.3895,50.0,21.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,30.0,107.849,HARD,18.0,3.0,,,18.0,1,62.0,1.86,True,-0.3895,50.0,20.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,31.0,107.971,HARD,19.0,3.0,,,18.0,1,60.4,1.812,True,-0.3895,50.0,19.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,32.0,108.046,HARD,20.0,3.0,,,18.0,1,58.8,1.764,True,-0.3895,50.0,18.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,33.0,109.361,HARD,21.0,3.0,,,19.0,1,57.2,1.716,True,-0.3895,50.0,17.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,34.0,111.998,HARD,22.0,3.0,7633.407,,19.0,1,55.6,1.668,False,-0.3895,50.0,16.0,0,0,1
+Azerbaijan,2023,BOT,Alfa Romeo,35.0,124.784,MEDIUM,1.0,4.0,,7654.36,19.0,1,54.0,1.62,False,-0.4034,50.0,15.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,36.0,106.304,MEDIUM,2.0,4.0,,,19.0,1,52.4,1.572,True,-0.4034,50.0,14.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,37.0,106.722,MEDIUM,3.0,4.0,,,18.0,1,50.8,1.524,True,-0.4034,50.0,13.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,38.0,106.823,MEDIUM,4.0,4.0,,,18.0,1,49.2,1.476,True,-0.4034,50.0,12.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,39.0,107.213,MEDIUM,5.0,4.0,,,18.0,1,47.6,1.428,True,-0.4034,50.0,11.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,40.0,106.841,MEDIUM,6.0,4.0,,,18.0,1,46.0,1.38,True,-0.4034,50.0,10.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,41.0,107.199,MEDIUM,7.0,4.0,,,18.0,1,44.4,1.332,True,-0.4034,50.0,9.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,42.0,108.026,MEDIUM,8.0,4.0,,,18.0,1,42.8,1.284,True,-0.4034,50.0,8.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,43.0,108.059,MEDIUM,9.0,4.0,,,18.0,1,41.2,1.236,True,-0.4034,50.0,7.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,44.0,106.864,MEDIUM,10.0,4.0,,,18.0,1,39.6,1.188,True,-0.4034,50.0,6.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,45.0,106.699,MEDIUM,11.0,4.0,,,18.0,1,38.0,1.14,True,-0.4034,50.0,5.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,46.0,106.599,MEDIUM,12.0,4.0,,,18.0,1,36.4,1.092,True,-0.4034,50.0,4.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,47.0,106.688,MEDIUM,13.0,4.0,,,18.0,1,34.8,1.044,True,-0.4034,50.0,3.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,48.0,106.754,MEDIUM,14.0,4.0,,,18.0,12,33.2,0.996,True,-0.4034,50.0,2.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,49.0,106.649,MEDIUM,15.0,4.0,,,18.0,1,31.6,0.948,True,-0.4034,50.0,1.0,0,0,0
+Azerbaijan,2023,BOT,Alfa Romeo,50.0,106.652,MEDIUM,16.0,4.0,,,18.0,1,30.0,0.9,True,-0.4034,50.0,0.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,1.0,117.516,MEDIUM,1.0,1.0,,,11.0,12,108.4,3.252,False,-0.3225,51.0,50.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,2.0,109.527,MEDIUM,2.0,1.0,,,11.0,1,106.8,3.204,True,-0.3225,51.0,49.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,3.0,108.452,MEDIUM,3.0,1.0,,,11.0,1,105.2,3.156,True,-0.3225,51.0,48.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,4.0,109.002,MEDIUM,4.0,1.0,,,11.0,1,103.6,3.108,True,-0.3225,51.0,47.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,5.0,108.298,MEDIUM,5.0,1.0,,,11.0,1,102.0,3.06,True,-0.3225,51.0,46.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,6.0,108.485,MEDIUM,6.0,1.0,,,11.0,1,100.4,3.012,True,-0.3225,51.0,45.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,7.0,109.102,MEDIUM,7.0,1.0,,,11.0,1,98.8,2.964,True,-0.3225,51.0,44.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,8.0,112.245,MEDIUM,8.0,1.0,4663.32,,12.0,1,97.2,2.916,False,-0.3225,51.0,43.0,0,0,1
+Azerbaijan,2023,PIA,McLaren,9.0,125.475,HARD,1.0,2.0,,4684.289,16.0,1,95.6,2.868,False,-0.2189,51.0,42.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,10.0,120.729,HARD,2.0,2.0,,,15.0,124,94.0,2.82,False,-0.2189,51.0,41.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,11.0,148.314,HARD,3.0,2.0,,,14.0,4,92.4,2.772,False,-0.2189,51.0,40.0,1,0,0
+Azerbaijan,2023,PIA,McLaren,12.0,135.556,HARD,4.0,2.0,,,13.0,4,90.8,2.724,False,-0.2189,51.0,39.0,1,0,0
+Azerbaijan,2023,PIA,McLaren,13.0,,HARD,5.0,2.0,,,13.0,41,89.2,2.676,False,-0.2189,51.0,38.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,14.0,112.604,HARD,6.0,2.0,,,13.0,1,87.6,2.628,True,-0.2189,51.0,37.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,15.0,108.618,HARD,7.0,2.0,,,13.0,1,86.0,2.58,True,-0.2189,51.0,36.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,16.0,108.175,HARD,8.0,2.0,,,13.0,1,84.4,2.532,True,-0.2189,51.0,35.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,17.0,107.625,HARD,9.0,2.0,,,13.0,12,82.8,2.484,True,-0.2189,51.0,34.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,18.0,107.723,HARD,10.0,2.0,,,13.0,1,81.2,2.436,True,-0.2189,51.0,33.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,19.0,107.736,HARD,11.0,2.0,,,13.0,1,79.6,2.388,True,-0.2189,51.0,32.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,20.0,107.361,HARD,12.0,2.0,,,13.0,1,78.0,2.34,True,-0.2189,51.0,31.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,21.0,108.171,HARD,13.0,2.0,,,13.0,1,76.4,2.292,True,-0.2189,51.0,30.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,22.0,107.876,HARD,14.0,2.0,,,13.0,1,74.8,2.244,True,-0.2189,51.0,29.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,23.0,108.325,HARD,15.0,2.0,,,13.0,1,73.2,2.196,True,-0.2189,51.0,28.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,24.0,107.929,HARD,16.0,2.0,,,13.0,1,71.6,2.148,True,-0.2189,51.0,27.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,25.0,108.252,HARD,17.0,2.0,,,13.0,1,70.0,2.1,True,-0.2189,51.0,26.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,26.0,108.025,HARD,18.0,2.0,,,13.0,1,68.4,2.052,True,-0.2189,51.0,25.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,27.0,107.563,HARD,19.0,2.0,,,13.0,1,66.8,2.004,True,-0.2189,51.0,24.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,28.0,108.227,HARD,20.0,2.0,,,13.0,1,65.2,1.956,True,-0.2189,51.0,23.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,29.0,107.866,HARD,21.0,2.0,,,13.0,1,63.6,1.908,True,-0.2189,51.0,22.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,30.0,107.654,HARD,22.0,2.0,,,13.0,1,62.0,1.86,True,-0.2189,51.0,21.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,31.0,107.038,HARD,23.0,2.0,,,13.0,1,60.4,1.812,True,-0.2189,51.0,20.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,32.0,107.356,HARD,24.0,2.0,,,13.0,1,58.8,1.764,True,-0.2189,51.0,19.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,33.0,107.382,HARD,25.0,2.0,,,13.0,1,57.2,1.716,True,-0.2189,51.0,18.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,34.0,107.545,HARD,26.0,2.0,,,13.0,1,55.6,1.668,True,-0.2189,51.0,17.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,35.0,107.157,HARD,27.0,2.0,,,13.0,1,54.0,1.62,True,-0.2189,51.0,16.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,36.0,106.925,HARD,28.0,2.0,,,13.0,1,52.4,1.572,True,-0.2189,51.0,15.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,37.0,107.014,HARD,29.0,2.0,,,13.0,1,50.8,1.524,True,-0.2189,51.0,14.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,38.0,106.868,HARD,30.0,2.0,,,13.0,1,49.2,1.476,True,-0.2189,51.0,13.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,39.0,106.873,HARD,31.0,2.0,,,13.0,1,47.6,1.428,True,-0.2189,51.0,12.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,40.0,107.239,HARD,32.0,2.0,,,13.0,1,46.0,1.38,True,-0.2189,51.0,11.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,41.0,107.097,HARD,33.0,2.0,,,13.0,1,44.4,1.332,True,-0.2189,51.0,10.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,42.0,106.889,HARD,34.0,2.0,,,13.0,1,42.8,1.284,True,-0.2189,51.0,9.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,43.0,106.929,HARD,35.0,2.0,,,13.0,1,41.2,1.236,True,-0.2189,51.0,8.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,44.0,106.86,HARD,36.0,2.0,,,13.0,1,39.6,1.188,True,-0.2189,51.0,7.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,45.0,107.196,HARD,37.0,2.0,,,13.0,1,38.0,1.14,True,-0.2189,51.0,6.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,46.0,107.193,HARD,38.0,2.0,,,13.0,1,36.4,1.092,True,-0.2189,51.0,5.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,47.0,107.158,HARD,39.0,2.0,,,13.0,1,34.8,1.044,True,-0.2189,51.0,4.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,48.0,107.06,HARD,40.0,2.0,,,12.0,12,33.2,0.996,True,-0.2189,51.0,3.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,49.0,106.43,HARD,41.0,2.0,,,12.0,1,31.6,0.948,True,-0.2189,51.0,2.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,50.0,106.113,HARD,42.0,2.0,,,12.0,1,30.0,0.9,True,-0.2189,51.0,1.0,0,0,0
+Azerbaijan,2023,PIA,McLaren,51.0,105.631,HARD,43.0,2.0,,,11.0,1,28.4,0.852,True,-0.2189,51.0,0.0,0,0,0
